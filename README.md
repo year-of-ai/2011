@@ -1,5 +1,10 @@
 # The Year 2011 — A Knowledge Base
 
+> **Consolidated into [year-of-ai/2005-2011](https://github.com/year-of-ai/2005-2011).**
+> This repository is archived and read-only. All content has been preserved under the
+> `2011/` directory in the consolidated range repository.
+
+
 A self-growing, autonomously curated knowledge base covering the events, people, works, and developments of **2011** — a year defined by the Arab Spring's wave of democratic uprisings, the Fukushima Daiichi nuclear disaster triggered by the Tōhoku earthquake and tsunami, the death of Osama bin Laden, and the Occupy Wall Street movement that swept the globe. This repository is part of a lineage of year-focused knowledge bases maintained by the [year-of-ai](https://github.com/year-of-ai) organization.
 
 > **Status**: Growing — generation 1. Lineage position: 7 of 7 (consolidation threshold reached).
