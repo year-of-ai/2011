@@ -61,7 +61,7 @@ The program's legacy was nonetheless transformative: it normalized human presenc
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [Android Mobile Platform Rise (2011)](android-mobile-rise.md) — A parallel 2011 technology story in which commercial, decentralized innovation displaced a previous paradigm
-- [Eurozone Sovereign Debt Crisis (2011)](../society-economics/eurozone-debt-crisis.md) — The fiscal austerity environment that constrained government spending on programs including NASA during 2011
+- [Fukushima Daiichi Nuclear Disaster (March 11, 2011)](fukushima-daiichi-disaster.md) — A co-occurring 2011 test of the limits of complex, high-stakes engineered systems
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

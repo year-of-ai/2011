@@ -56,8 +56,8 @@ Microsoft's Windows Phone 7, launched in late 2010, struggled to gain traction a
 ## Related
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
+- [Steve Jobs (October 5, 2011)](../people/steve-jobs.md) — Apple's co-founder and CEO, whose iOS platform Android overtook in global market share in 2011
 - [Space Shuttle Program Ends (2011)](space-shuttle-final-mission.md) — Another landmark 2011 technology transition as government-led programs gave way to commercial successors
-- [Eurozone Sovereign Debt Crisis (2011)](../society-economics/eurozone-debt-crisis.md) — The economic turbulence that shaped consumer spending and tech market dynamics globally in 2011
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

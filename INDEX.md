@@ -6,12 +6,13 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 ## History & Politics
 [Category index](history-politics/index.md)
 
-_No dedicated topic files yet._
+- [Arab Spring (2011)](history-politics/arab-spring.md)
 
 ## Science & Technology
 [Category index](science-technology/index.md)
 
 - [Android Mobile Platform Rise (2011)](science-technology/android-mobile-rise.md)
+- [Fukushima Daiichi Nuclear Disaster (March 11, 2011)](science-technology/fukushima-daiichi-disaster.md)
 - [Space Shuttle Program Ends (July 21, 2011)](science-technology/space-shuttle-final-mission.md)
 
 ## Arts & Culture
@@ -27,5 +28,5 @@ _No dedicated topic files yet._
 ## People
 [Category index](people/index.md)
 
-_No dedicated topic files yet._
+- [Steve Jobs (October 5, 2011)](people/steve-jobs.md)
 <!-- END GENERATED: master-index -->

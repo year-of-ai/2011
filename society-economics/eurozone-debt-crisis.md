@@ -66,7 +66,7 @@ Mario Draghi's famous July 2012 declaration that the ECB would do "whatever it t
 ## Related
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
-- [Space Shuttle Program Ends (2011)](../science-technology/space-shuttle-final-mission.md) — The fiscal austerity context of 2011 constrained government investment in large-scale programs including space exploration
+- [Arab Spring (2011)](../history-politics/arab-spring.md) — A parallel 2011 wave of public anger over economic hardship and political grievance
 - [Android Mobile Platform Rise (2011)](../science-technology/android-mobile-rise.md) — Mobile technology's explosive commercial expansion in 2011 occurred against this backdrop of European economic contraction
 <!-- END GENERATED: crossrefs -->
 
