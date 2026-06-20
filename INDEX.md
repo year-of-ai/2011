@@ -7,6 +7,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 [Category index](history-politics/index.md)
 
 - [Arab Spring (2011)](history-politics/arab-spring.md)
+- [Death of Osama bin Laden (May 2, 2011)](history-politics/osama-bin-laden-death.md)
 
 ## Science & Technology
 [Category index](science-technology/index.md)
@@ -18,12 +19,13 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 ## Arts & Culture
 [Category index](arts-culture/index.md)
 
-_No dedicated topic files yet._
+- [2011 in Film](arts-culture/2011-in-film.md)
 
 ## Society & Economics
 [Category index](society-economics/index.md)
 
 - [Eurozone Sovereign Debt Crisis (2011)](society-economics/eurozone-debt-crisis.md)
+- [Occupy Wall Street (2011)](society-economics/occupy-wall-street.md)
 
 ## People
 [Category index](people/index.md)

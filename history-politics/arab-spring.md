@@ -55,6 +55,7 @@ The simultaneous eruption of protest movements across multiple countries in 2011
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [Fukushima Daiichi Nuclear Disaster (March 11, 2011)](../science-technology/fukushima-daiichi-disaster.md) — Another of 2011's defining crises, testing the resilience of national institutions under acute strain
 - [Eurozone Sovereign Debt Crisis (2011)](../society-economics/eurozone-debt-crisis.md) — A parallel 2011 surge of public anger over economic hardship that helped inspire global protest movements
+- [Death of Osama bin Laden (May 2, 2011)](osama-bin-laden-death.md) — A defining 2011 counterterrorism event whose timing alongside the uprisings sharpened debate over the future of political Islam and extremism
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

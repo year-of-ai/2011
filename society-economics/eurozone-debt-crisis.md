@@ -68,6 +68,7 @@ Mario Draghi's famous July 2012 declaration that the ECB would do "whatever it t
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [Arab Spring (2011)](../history-politics/arab-spring.md) — A parallel 2011 wave of public anger over economic hardship and political grievance
 - [Android Mobile Platform Rise (2011)](../science-technology/android-mobile-rise.md) — Mobile technology's explosive commercial expansion in 2011 occurred against this backdrop of European economic contraction
+- [Occupy Wall Street (2011)](occupy-wall-street.md) — The austerity protests this crisis drove across Europe formed the international context for the Occupy movement's global resonance
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

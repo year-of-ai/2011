@@ -4,4 +4,5 @@ Topics in the **History & Politics** category of the 2011 knowledge base.
 
 <!-- BEGIN GENERATED: category-index:history-politics — maintained by build-structure; do not edit by hand -->
 - [Arab Spring (2011)](arab-spring.md) — A wave of pro-democracy uprisings and armed rebellions swept the Arab world, toppling governments in Tunisia, Egypt, Libya, and Yemen.
+- [Death of Osama bin Laden (May 2, 2011)](osama-bin-laden-death.md) — U.S. Navy SEALs killed the al-Qaeda founder in a covert raid on his compound in Abbottabad, Pakistan, ending a decade-long manhunt.
 <!-- END GENERATED: category-index:history-politics -->
