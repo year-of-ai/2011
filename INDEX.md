@@ -8,6 +8,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 
 - [Arab Spring (2011)](history-politics/arab-spring.md)
 - [Death of Osama bin Laden (May 2, 2011)](history-politics/osama-bin-laden-death.md)
+- [South Sudan Independence (July 9, 2011)](history-politics/south-sudan-independence.md)
 
 ## Science & Technology
 [Category index](science-technology/index.md)
@@ -20,6 +21,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 [Category index](arts-culture/index.md)
 
 - [2011 in Film](arts-culture/2011-in-film.md)
+- [Music in 2011](arts-culture/music-2011.md)
 
 ## Society & Economics
 [Category index](society-economics/index.md)

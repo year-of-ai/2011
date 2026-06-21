@@ -63,6 +63,7 @@ Bin Laden's compound in Abbottabad was demolished by Pakistani authorities in Fe
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [Arab Spring (2011)](arab-spring.md) — The wave of political upheaval sweeping the Arab world in 2011 coincided with bin Laden's death, prompting debate over whether democracy movements or counterterrorism would do more to reduce extremism
 - [Occupy Wall Street (2011)](../society-economics/occupy-wall-street.md) — The domestic political context of 2011 in the United States, marked at once by bin Laden's death abroad and growing economic protest at home
+- [South Sudan Independence (July 9, 2011)](south-sudan-independence.md) — Another landmark 2011 geopolitical event that reshaped US foreign-policy priorities in Africa and the Middle East
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
