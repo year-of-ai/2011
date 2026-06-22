@@ -62,6 +62,7 @@ The program's legacy was nonetheless transformative: it normalized human presenc
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [Android Mobile Platform Rise (2011)](android-mobile-rise.md) — A parallel 2011 technology story in which commercial, decentralized innovation displaced a previous paradigm
 - [Fukushima Daiichi Nuclear Disaster (March 11, 2011)](fukushima-daiichi-disaster.md) — A co-occurring 2011 test of the limits of complex, high-stakes engineered systems
+- [NASA Curiosity Rover Launch (November 26, 2011)](nasa-curiosity-rover.md) — NASA's robotic Mars mission, launched four months after the shuttle's retirement, underscored the agency's pivot from crewed flight to planetary science
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

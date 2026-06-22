@@ -50,6 +50,7 @@ Music in 2011 reflected and accelerated several industry-wide shifts. The domina
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [2011 in Film](2011-in-film.md) — Parallel cultural milestone of the same year; cinema's record-breaking box office alongside music's pivot toward streaming and album-driven narratives
 - [Steve Jobs (October 5, 2011)](../people/steve-jobs.md) — Apple's iTunes ecosystem, built under Jobs, remained the dominant music-distribution platform in 2011 as Spotify's US launch began the shift to streaming
+- [Death of Amy Winehouse (July 23, 2011)](../people/amy-winehouse.md) — One of 2011's most felt musical losses, as the British soul singer's death at 27 sent *Back to Black* back to the top of the UK album chart
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

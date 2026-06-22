@@ -80,6 +80,7 @@ The deliberate leaderlessness and refusal to articulate specific demands, while 
 - [Arab Spring (2011)](../history-politics/arab-spring.md) — The wave of mass protest in the Arab world that directly inspired OWS organizers and showcased the power of decentralized, leaderless movements in the social media era
 - [Eurozone Sovereign Debt Crisis (2011)](eurozone-debt-crisis.md) — The parallel European economic crisis that drove austerity protests across the continent and formed the international backdrop for OWS's global resonance
 - [Death of Osama bin Laden (May 2, 2011)](../history-politics/osama-bin-laden-death.md) — A contrasting 2011 event that briefly united American public opinion before OWS emerged amid growing domestic economic disillusionment
+- [World Population Reaches Seven Billion (October 31, 2011)](world-population-seven-billion.md) — The same autumn's demographic milestone reframed OWS's inequality critique in global terms of resource distribution and consumption
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
