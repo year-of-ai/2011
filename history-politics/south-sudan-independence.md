@@ -55,6 +55,7 @@ Yet the story of South Sudan's independence also illustrates the fragility of ne
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [Arab Spring (2011)](arab-spring.md) — Parallel wave of political transformation across the Arab world in the same year, reshaping governance across Sudan's northern and eastern neighbours
 - [Death of Osama bin Laden (May 2, 2011)](osama-bin-laden-death.md) — Another landmark 2011 geopolitical event that reshaped US foreign-policy priorities in Africa and the Middle East
+- [Libyan Civil War & NATO Intervention (February–October 2011)](libyan-civil-war-2011.md) — A concurrent 2011 upheaval that, like South Sudan's birth, redrew the political map of Africa
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

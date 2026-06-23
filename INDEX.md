@@ -8,6 +8,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 
 - [Arab Spring (2011)](history-politics/arab-spring.md)
 - [Death of Osama bin Laden (May 2, 2011)](history-politics/osama-bin-laden-death.md)
+- [Libyan Civil War & NATO Intervention (February–October 2011)](history-politics/libyan-civil-war-2011.md)
 - [Royal Wedding of Prince William and Catherine Middleton (April 29, 2011)](history-politics/royal-wedding-2011.md)
 - [South Sudan Independence (July 9, 2011)](history-politics/south-sudan-independence.md)
 
@@ -16,6 +17,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 
 - [Android Mobile Platform Rise (2011)](science-technology/android-mobile-rise.md)
 - [Fukushima Daiichi Nuclear Disaster (March 11, 2011)](science-technology/fukushima-daiichi-disaster.md)
+- [iPhone 4S & Siri Introduction (October 14, 2011)](science-technology/iphone-4s-siri.md)
 - [NASA Curiosity Rover Launch (November 26, 2011)](science-technology/nasa-curiosity-rover.md)
 - [Space Shuttle Program Ends (July 21, 2011)](science-technology/space-shuttle-final-mission.md)
 
@@ -29,6 +31,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 ## Society & Economics
 [Category index](society-economics/index.md)
 
+- [Cricket World Cup 2011 (February 19 – April 2, 2011)](society-economics/cricket-world-cup-2011.md)
 - [Eurozone Sovereign Debt Crisis (2011)](society-economics/eurozone-debt-crisis.md)
 - [Occupy Wall Street (2011)](society-economics/occupy-wall-street.md)
 - [World Population Reaches Seven Billion (October 31, 2011)](society-economics/world-population-seven-billion.md)

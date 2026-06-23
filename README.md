@@ -24,7 +24,9 @@ This knowledge base organizes content across five taxonomy categories:
 | Event | Description |
 |---|---|
 | [Arab Spring (2011)](history-politics/arab-spring.md) | Wave of pro-democracy uprisings swept North Africa and the Middle East, toppling governments in Tunisia, Egypt, Libya, and Yemen. |
+| [Libyan Civil War & NATO Intervention (Feb-Oct 2011)](history-politics/libyan-civil-war-2011.md) | Anti-Gaddafi uprising escalated into armed conflict; NATO intervention via UN Resolution 1973 led to regime collapse and Gaddafi's death on October 20. |
 | [Royal Wedding of Prince William and Catherine (Apr 29, 2011)](history-politics/royal-wedding-2011.md) | Prince William married Catherine Middleton at Westminster Abbey in London's most-watched cultural event, viewed globally by approximately 2 billion people. |
+| [Cricket World Cup 2011 (Feb-Apr 2011)](society-economics/cricket-world-cup-2011.md) | India defeated Sri Lanka in the final at Mumbai's Wankhede Stadium, becoming the first nation to win the Cricket World Cup on home soil. |
 | [Fukushima Daiichi disaster (Mar 11, 2011)](science-technology/fukushima-daiichi-disaster.md) | Tsunami triggered by the Tōhoku earthquake caused three nuclear reactor meltdowns at Fukushima, Japan's worst nuclear crisis. |
 | [Death of Osama bin Laden (May 2, 2011)](history-politics/osama-bin-laden-death.md) | US Navy SEALs killed al-Qaeda founder Osama bin Laden in Abbottabad, Pakistan, ending a decade-long manhunt. |
 | [Occupy Wall Street (Sep 17, 2011)](society-economics/occupy-wall-street.md) | Protest movement against economic inequality began in New York's Zuccotti Park and spread to hundreds of cities worldwide. |
@@ -35,6 +37,7 @@ This knowledge base organizes content across five taxonomy categories:
 | [Death of Amy Winehouse (Jul 23, 2011)](people/amy-winehouse.md) | British soul and jazz singer Amy Winehouse died at 27 from alcohol poisoning, joining the "27 Club" and leaving behind an influential musical legacy. |
 | [Space Shuttle program ends (Jul 21, 2011)](science-technology/space-shuttle-final-mission.md) | Atlantis completed the final Space Shuttle mission (STS-135), ending NASA's 30-year orbiter program. |
 | [Android surpasses iOS (2011)](science-technology/android-mobile-rise.md) | Google's Android became the world's dominant smartphone platform, exceeding 50% of global shipments amid the Apple–Samsung patent wars. |
+| [iPhone 4S & Siri Introduction (Oct 14, 2011)](science-technology/iphone-4s-siri.md) | Apple introduced the iPhone 4S with Siri, an intelligent voice assistant, marking the debut of practical AI on mainstream mobile devices. |
 | [NASA Curiosity Rover Launch (Nov 26, 2011)](science-technology/nasa-curiosity-rover.md) | NASA launched the sophisticated Curiosity rover on its eight-month journey to Mars to investigate whether the planet had conditions suitable for microbial life. |
 | [2011 in Film](arts-culture/2011-in-film.md) | Cinema's record-breaking year: three films crossed $1 billion (first ever); 27 sequels released (record number); blockbuster filmmaking evolved artistically. |
 | [Music in 2011](arts-culture/music-2011.md) | Landmark year dominated by Adele's "21" album and Arcade Fire's Grammy recognition; marked rise of hip-hop mainstream crossover and female-fronted pop. |

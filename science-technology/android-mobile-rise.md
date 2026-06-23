@@ -57,6 +57,7 @@ Microsoft's Windows Phone 7, launched in late 2010, struggled to gain traction a
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [Steve Jobs (October 5, 2011)](../people/steve-jobs.md) — Apple's co-founder and CEO, whose iOS platform Android overtook in global market share in 2011
+- [iPhone 4S & Siri Introduction (October 14, 2011)](iphone-4s-siri.md) — Apple's 2011 flagship, whose Siri voice assistant Android manufacturers raced to match the following year
 - [Space Shuttle Program Ends (2011)](space-shuttle-final-mission.md) — Another landmark 2011 technology transition as government-led programs gave way to commercial successors
 <!-- END GENERATED: crossrefs -->
 
