@@ -7,10 +7,12 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 [Category index](history-politics/index.md)
 
 - [Arab Spring (2011)](history-politics/arab-spring.md)
+- [Death of Kim Jong Il (December 17, 2011)](history-politics/kim-jong-il-death.md)
 - [Death of Osama bin Laden (May 2, 2011)](history-politics/osama-bin-laden-death.md)
 - [Libyan Civil War & NATO Intervention (February–October 2011)](history-politics/libyan-civil-war-2011.md)
 - [Royal Wedding of Prince William and Catherine Middleton (April 29, 2011)](history-politics/royal-wedding-2011.md)
 - [South Sudan Independence (July 9, 2011)](history-politics/south-sudan-independence.md)
+- [Tunisian Revolution / Jasmine Revolution (December 17, 2010 – January 14, 2011)](history-politics/tunisian-revolution-2011.md)
 
 ## Science & Technology
 [Category index](science-technology/index.md)
@@ -31,6 +33,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 ## Society & Economics
 [Category index](society-economics/index.md)
 
+- [2011 England Riots (August 6–11, 2011)](society-economics/2011-england-riots.md)
 - [Cricket World Cup 2011 (February 19 – April 2, 2011)](society-economics/cricket-world-cup-2011.md)
 - [Eurozone Sovereign Debt Crisis (2011)](society-economics/eurozone-debt-crisis.md)
 - [Occupy Wall Street (2011)](society-economics/occupy-wall-street.md)

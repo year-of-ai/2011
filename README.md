@@ -23,12 +23,14 @@ This knowledge base organizes content across five taxonomy categories:
 
 | Event | Description |
 |---|---|
+| [Tunisian Revolution – Jasmine Revolution (Dec 2010 – Jan 2011)](history-politics/tunisian-revolution-2011.md) | Civil resistance movement ousted 23-year dictator Ben Ali in 28 days, sparking the Arab Spring and earning Tunisia its democratic transition. |
 | [Arab Spring (2011)](history-politics/arab-spring.md) | Wave of pro-democracy uprisings swept North Africa and the Middle East, toppling governments in Tunisia, Egypt, Libya, and Yemen. |
 | [Libyan Civil War & NATO Intervention (Feb-Oct 2011)](history-politics/libyan-civil-war-2011.md) | Anti-Gaddafi uprising escalated into armed conflict; NATO intervention via UN Resolution 1973 led to regime collapse and Gaddafi's death on October 20. |
 | [Royal Wedding of Prince William and Catherine (Apr 29, 2011)](history-politics/royal-wedding-2011.md) | Prince William married Catherine Middleton at Westminster Abbey in London's most-watched cultural event, viewed globally by approximately 2 billion people. |
 | [Cricket World Cup 2011 (Feb-Apr 2011)](society-economics/cricket-world-cup-2011.md) | India defeated Sri Lanka in the final at Mumbai's Wankhede Stadium, becoming the first nation to win the Cricket World Cup on home soil. |
 | [Fukushima Daiichi disaster (Mar 11, 2011)](science-technology/fukushima-daiichi-disaster.md) | Tsunami triggered by the Tōhoku earthquake caused three nuclear reactor meltdowns at Fukushima, Japan's worst nuclear crisis. |
 | [Death of Osama bin Laden (May 2, 2011)](history-politics/osama-bin-laden-death.md) | US Navy SEALs killed al-Qaeda founder Osama bin Laden in Abbottabad, Pakistan, ending a decade-long manhunt. |
+| [2011 England Riots (Aug 6–11, 2011)](society-economics/2011-england-riots.md) | Urban unrest spanning London and major cities resulted in five deaths, £200 million in property damage, and revealed deep social fractures in British society. |
 | [Occupy Wall Street (Sep 17, 2011)](society-economics/occupy-wall-street.md) | Protest movement against economic inequality began in New York's Zuccotti Park and spread to hundreds of cities worldwide. |
 | [South Sudan independence (Jul 9, 2011)](history-politics/south-sudan-independence.md) | South Sudan became the world's newest nation after a January referendum, separating from Sudan after decades of civil war. |
 | [World Population Reaches 7 Billion (Oct 31, 2011)](society-economics/world-population-seven-billion.md) | Global human population reached seven billion, prompting United Nations discussions about sustainability, resource allocation, and the implications for future development. |
@@ -42,3 +44,4 @@ This knowledge base organizes content across five taxonomy categories:
 | [2011 in Film](arts-culture/2011-in-film.md) | Cinema's record-breaking year: three films crossed $1 billion (first ever); 27 sequels released (record number); blockbuster filmmaking evolved artistically. |
 | [Music in 2011](arts-culture/music-2011.md) | Landmark year dominated by Adele's "21" album and Arcade Fire's Grammy recognition; marked rise of hip-hop mainstream crossover and female-fronted pop. |
 | [Hugo and Nebula Awards 2011](arts-culture/hugo-awards-2011.md) | Connie Willis's *Blackout/All Clear* and Ted Chiang's novella swept science fiction's top honors at Reno's Renovation Worldcon and the Nebula ceremony. |
+| [Death of Kim Jong Il (Dec 17, 2011)](history-politics/kim-jong-il-death.md) | North Korean leader Kim Jong Il died of a heart attack; his young son Kim Jong Un succeeded him, raising regional security concerns and reshaping East Asian geopolitics. |
