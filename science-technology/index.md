@@ -3,6 +3,7 @@
 Topics in the **Science & Technology** category of the 2011 knowledge base.
 
 <!-- BEGIN GENERATED: category-index:science-technology — maintained by build-structure; do not edit by hand -->
+- [2011 Nobel Prizes (October 2011)](nobel-prizes-2011.md) — Prizes honored the accelerating expansion of the universe (Physics), quasicrystals (Chemistry), immunity discoveries (Medicine), poet Tomas Tranströmer (Literature), and three women peace activists.
 - [Android Mobile Platform Rise (2011)](android-mobile-rise.md) — Android surpassed iOS to become the world's dominant smartphone operating system amid the Apple–Samsung patent wars.
 - [Fukushima Daiichi Nuclear Disaster (March 11, 2011)](fukushima-daiichi-disaster.md) — A tsunami from the magnitude 9.0–9.1 Tōhoku earthquake caused three reactor meltdowns — the second-worst nuclear accident in history.
 - [iPhone 4S & Siri Introduction (October 14, 2011)](iphone-4s-siri.md) — Apple's iPhone 4S debuted Siri, the first AI voice assistant on a mass-market phone, in Tim Cook's first keynote as CEO and a day before Steve Jobs's death.

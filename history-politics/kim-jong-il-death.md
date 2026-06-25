@@ -47,6 +47,7 @@ Kim Jong Il's death and the succession of Kim Jong Un represented a generational
 - [Arab Spring (2011)](arab-spring.md) — Parallel political upheavals that reshaped the global order in 2011
 - [Death of Osama bin Laden (May 2, 2011)](osama-bin-laden-death.md) — Another high-profile 2011 death of a figure who defined an era of geopolitical conflict
 - [South Sudan Independence (July 9, 2011)](south-sudan-independence.md) — Another major geopolitical shift of 2011
+- [Death of Václav Havel (December 18, 2011)](vaclav-havel-death.md) — The Czech statesman died one day later, a striking Cold War counterpoint
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

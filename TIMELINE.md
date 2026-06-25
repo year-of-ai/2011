@@ -13,6 +13,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Dec 17, 2010 – Jan 14, 2011 | Tunisian Revolution (Jasmine Revolution) | History & Politics | [link](history-politics/tunisian-revolution-2011.md) |
 | Feb 15 – Oct 23, 2011 | Libyan Civil War & NATO intervention | History & Politics | [link](history-politics/libyan-civil-war-2011.md) |
 | Feb 19 – Apr 2, 2011 | Cricket World Cup 2011 | Society & Economics | [link](society-economics/cricket-world-cup-2011.md) |
+| Mar 1, 2011 | WikiLeaks superseding charges against Bradley Manning | History & Politics | [link](history-politics/wikileaks-bradley-manning.md) |
 | Mar 11, 2011 | Fukushima Daiichi disaster | Science & Technology | [link](science-technology/fukushima-daiichi-disaster.md) |
 | Apr 29, 2011 | Royal Wedding of Prince William and Catherine Middleton | History & Politics | [link](history-politics/royal-wedding-2011.md) |
 | May 2, 2011 | Death of Osama bin Laden | History & Politics | [link](history-politics/osama-bin-laden-death.md) |
@@ -22,9 +23,11 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Aug 6–11, 2011 | 2011 England riots | Society & Economics | [link](society-economics/2011-england-riots.md) |
 | Aug 17, 2011 | 2011 Hugo Awards (Renovation Worldcon, Reno) | Arts & Culture | [link](arts-culture/hugo-awards-2011.md) |
 | Sep 17, 2011 | Occupy Wall Street begins | Society & Economics | [link](society-economics/occupy-wall-street.md) |
+| Oct 3–10, 2011 | 2011 Nobel Prizes announced | Science & Technology | [link](science-technology/nobel-prizes-2011.md) |
 | Oct 5, 2011 | Steve Jobs death | People | [link](people/steve-jobs.md) |
 | Oct 14, 2011 | iPhone 4S & Siri introduced | Science & Technology | [link](science-technology/iphone-4s-siri.md) |
 | Oct 31, 2011 | World population reaches seven billion | Society & Economics | [link](society-economics/world-population-seven-billion.md) |
 | Nov 26, 2011 | NASA launches Curiosity rover | Science & Technology | [link](science-technology/nasa-curiosity-rover.md) |
 | Dec 17, 2011 | Death of Kim Jong Il | History & Politics | [link](history-politics/kim-jong-il-death.md) |
+| Dec 18, 2011 | Death of Václav Havel | History & Politics | [link](history-politics/vaclav-havel-death.md) |
 <!-- END GENERATED: timeline -->
