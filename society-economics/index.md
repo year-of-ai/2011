@@ -4,6 +4,7 @@ Topics in the **Society & Economics** category of the 2011 knowledge base.
 
 <!-- BEGIN GENERATED: category-index:society-economics — maintained by build-structure; do not edit by hand -->
 - [2011 England Riots (August 6–11, 2011)](2011-england-riots.md) — Six days of urban unrest across London and major English cities left five dead and caused some £200 million in property damage, exposing deep social fractures.
+- [Christchurch Earthquake (February 22, 2011)](christchurch-earthquake-2011.md) — A shallow magnitude 6.3 earthquake killed 185 people across 22 nationalities and became New Zealand's costliest natural disaster, driving a Canterbury rebuild of around NZ$40 billion.
 - [Cricket World Cup 2011 (February 19 – April 2, 2011)](cricket-world-cup-2011.md) — India defeated Sri Lanka in the final at Mumbai's Wankhede Stadium, becoming the first nation to win the Cricket World Cup on home soil.
 - [Eurozone Sovereign Debt Crisis (2011)](eurozone-debt-crisis.md) — The sovereign debt crisis reached its most acute phase, with bailouts and contagion threatening the survival of the euro.
 - [Occupy Wall Street (2011)](occupy-wall-street.md) — A leaderless protest movement against economic inequality occupied Manhattan's Zuccotti Park for 59 days and spread to hundreds of cities worldwide.

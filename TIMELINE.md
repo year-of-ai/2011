@@ -13,8 +13,11 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Dec 17, 2010 – Jan 14, 2011 | Tunisian Revolution (Jasmine Revolution) | History & Politics | [link](history-politics/tunisian-revolution-2011.md) |
 | Feb 15 – Oct 23, 2011 | Libyan Civil War & NATO intervention | History & Politics | [link](history-politics/libyan-civil-war-2011.md) |
 | Feb 19 – Apr 2, 2011 | Cricket World Cup 2011 | Society & Economics | [link](society-economics/cricket-world-cup-2011.md) |
+| Feb 22, 2011 | Christchurch earthquake | Society & Economics | [link](society-economics/christchurch-earthquake-2011.md) |
 | Mar 1, 2011 | WikiLeaks superseding charges against Bradley Manning | History & Politics | [link](history-politics/wikileaks-bradley-manning.md) |
 | Mar 11, 2011 | Fukushima Daiichi disaster | Science & Technology | [link](science-technology/fukushima-daiichi-disaster.md) |
+| Mar 23, 2011 | Death of Elizabeth Taylor | People | [link](people/elizabeth-taylor.md) |
+| Apr 18, 2011 | 2011 Pulitzer Prizes announced | Arts & Culture | [link](arts-culture/pulitzer-prizes-2011.md) |
 | Apr 29, 2011 | Royal Wedding of Prince William and Catherine Middleton | History & Politics | [link](history-politics/royal-wedding-2011.md) |
 | May 2, 2011 | Death of Osama bin Laden | History & Politics | [link](history-politics/osama-bin-laden-death.md) |
 | Jul 9, 2011 | South Sudan independence | History & Politics | [link](history-politics/south-sudan-independence.md) |

@@ -31,12 +31,14 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 
 - [2011 Hugo Awards in Science Fiction (August 17–21, 2011)](arts-culture/hugo-awards-2011.md)
 - [2011 in Film](arts-culture/2011-in-film.md)
+- [2011 Pulitzer Prizes (April 18, 2011)](arts-culture/pulitzer-prizes-2011.md)
 - [Music in 2011](arts-culture/music-2011.md)
 
 ## Society & Economics
 [Category index](society-economics/index.md)
 
 - [2011 England Riots (August 6–11, 2011)](society-economics/2011-england-riots.md)
+- [Christchurch Earthquake (February 22, 2011)](society-economics/christchurch-earthquake-2011.md)
 - [Cricket World Cup 2011 (February 19 – April 2, 2011)](society-economics/cricket-world-cup-2011.md)
 - [Eurozone Sovereign Debt Crisis (2011)](society-economics/eurozone-debt-crisis.md)
 - [Occupy Wall Street (2011)](society-economics/occupy-wall-street.md)
@@ -46,5 +48,6 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 [Category index](people/index.md)
 
 - [Death of Amy Winehouse (July 23, 2011)](people/amy-winehouse.md)
+- [Death of Elizabeth Taylor (March 23, 2011)](people/elizabeth-taylor.md)
 - [Steve Jobs (October 5, 2011)](people/steve-jobs.md)
 <!-- END GENERATED: master-index -->

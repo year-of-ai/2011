@@ -75,6 +75,7 @@ The Worldcon gathering of approximately 4,500 attendees in Reno served as a reun
 - [2011 in Music](music-2011.md) — The broader artistic landscape of 2011 across a parallel creative genre
 - [2011 in Film](2011-in-film.md) — The dramatic film context in which *Inception* earned its Hugo, connecting screen science fiction to literary SF community recognition
 - [Death of Amy Winehouse (July 23, 2011)](../people/amy-winehouse.md) — Another 2011 cultural moment reflecting on creativity, legacy, and the complex relationship between art and public attention
+- [2011 Pulitzer Prizes](pulitzer-prizes-2011.md) — The year's parallel literary honors, recognizing fiction, drama, and nonfiction across American letters
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

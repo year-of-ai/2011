@@ -74,6 +74,7 @@ The 2011 England Riots forced a national reckoning with the cumulative effects o
 - [Occupy Wall Street (2011)](occupy-wall-street.md) — The global 2011 protest movement against inequality, reflecting overlapping social frustrations
 - [Eurozone Sovereign Debt Crisis (2011)](eurozone-debt-crisis.md) — The broader economic climate of austerity within which the riots erupted
 - [Arab Spring (2011)](../history-politics/arab-spring.md) — The international context of 2011 civil unrest and social mobilization
+- [Christchurch Earthquake (February 22, 2011)](christchurch-earthquake-2011.md) — Another 2011 event that tested government emergency response and community resilience
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
