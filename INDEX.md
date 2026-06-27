@@ -6,10 +6,12 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 ## History & Politics
 [Category index](history-politics/index.md)
 
+- [2011 Norway Attacks (July 22, 2011)](history-politics/norway-attacks-2011.md)
 - [Arab Spring (2011)](history-politics/arab-spring.md)
 - [Death of Kim Jong Il (December 17, 2011)](history-politics/kim-jong-il-death.md)
 - [Death of Osama bin Laden (May 2, 2011)](history-politics/osama-bin-laden-death.md)
 - [Death of Václav Havel (December 18, 2011)](history-politics/vaclav-havel-death.md)
+- [End of the Iraq War — U.S. Withdrawal (December 18, 2011)](history-politics/iraq-war-end-2011.md)
 - [Libyan Civil War & NATO Intervention (February–October 2011)](history-politics/libyan-civil-war-2011.md)
 - [Royal Wedding of Prince William and Catherine Middleton (April 29, 2011)](history-politics/royal-wedding-2011.md)
 - [South Sudan Independence (July 9, 2011)](history-politics/south-sudan-independence.md)
@@ -42,6 +44,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [Cricket World Cup 2011 (February 19 – April 2, 2011)](society-economics/cricket-world-cup-2011.md)
 - [Eurozone Sovereign Debt Crisis (2011)](society-economics/eurozone-debt-crisis.md)
 - [Occupy Wall Street (2011)](society-economics/occupy-wall-street.md)
+- [Tōhoku Earthquake and Tsunami (March 11, 2011)](society-economics/tohoku-earthquake-tsunami-2011.md)
 - [World Population Reaches Seven Billion (October 31, 2011)](society-economics/world-population-seven-billion.md)
 
 ## People

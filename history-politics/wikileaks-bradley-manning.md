@@ -93,6 +93,7 @@ Manning's court-martial concluded on July 30, 2013, when she was convicted on 20
 - [Arab Spring (2011)](arab-spring.md) — Leaked cables exposing regional corruption helped fuel the uprisings
 - [Tunisian Revolution / Jasmine Revolution (December 17, 2010 – January 14, 2011)](tunisian-revolution-2011.md) — Cables on Ben Ali's corruption validated protesters' grievances
 - [Occupy Wall Street (2011)](../society-economics/occupy-wall-street.md) — A parallel 2011 movement built on demands for transparency and accountability
+- [End of the Iraq War — U.S. Withdrawal (December 18, 2011)](iraq-war-end-2011.md) — The war whose classified field reports and cables Manning's leak exposed, drawing to a close the same year
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

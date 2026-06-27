@@ -3,10 +3,12 @@
 Topics in the **History & Politics** category of the 2011 knowledge base.
 
 <!-- BEGIN GENERATED: category-index:history-politics — maintained by build-structure; do not edit by hand -->
+- [2011 Norway Attacks (July 22, 2011)](norway-attacks-2011.md) — Far-right extremist Anders Behring Breivik killed 77 people in an Oslo car bombing and a mass shooting at a Labour Party youth camp on Utøya — Norway's deadliest attack since the Second World War.
 - [Arab Spring (2011)](arab-spring.md) — A wave of pro-democracy uprisings and armed rebellions swept the Arab world, toppling governments in Tunisia, Egypt, Libya, and Yemen.
 - [Death of Kim Jong Il (December 17, 2011)](kim-jong-il-death.md) — North Korea's leader since 1994 died of a heart attack; his son Kim Jong Un succeeded him at exceptional speed, reshaping East Asian security.
 - [Death of Osama bin Laden (May 2, 2011)](osama-bin-laden-death.md) — U.S. Navy SEALs killed the al-Qaeda founder in a covert raid on his compound in Abbottabad, Pakistan, ending a decade-long manhunt.
 - [Death of Václav Havel (December 18, 2011)](vaclav-havel-death.md) — The dissident playwright who led Czechoslovakia's Velvet Revolution and became the first president of the Czech Republic died at 75, one day after Kim Jong Il.
+- [End of the Iraq War — U.S. Withdrawal (December 18, 2011)](iraq-war-end-2011.md) — The last U.S. combat troops crossed from Iraq into Kuwait, ending nearly nine years of war that toppled Saddam Hussein and cost nearly 4,500 American lives.
 - [Libyan Civil War & NATO Intervention (February–October 2011)](libyan-civil-war-2011.md) — An anti-Gaddafi uprising escalated into civil war; a NATO intervention under UN Resolution 1973 led to the collapse of Muammar Gaddafi's 42-year regime and his death on October 20.
 - [Royal Wedding of Prince William and Catherine Middleton (April 29, 2011)](royal-wedding-2011.md) — Prince William married Catherine Middleton at Westminster Abbey before an estimated global audience of around 2 billion, a unifying cultural moment amid economic austerity.
 - [South Sudan Independence (July 9, 2011)](south-sudan-independence.md) — South Sudan became the world's newest nation after a January referendum, separating from Sudan following decades of civil war.

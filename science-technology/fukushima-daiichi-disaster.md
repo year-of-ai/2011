@@ -56,6 +56,7 @@ The disaster reshaped global nuclear governance, prompted revisions to IAEA safe
 ## Related
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
+- [Tōhoku Earthquake and Tsunami (March 11, 2011)](../society-economics/tohoku-earthquake-tsunami-2011.md) — The magnitude 9.0 earthquake and tsunami that directly caused this nuclear disaster by disabling the plant's cooling systems
 - [Space Shuttle Program Ends (July 21, 2011)](space-shuttle-final-mission.md) — A co-occurring 2011 milestone in the lifecycle of large, complex engineered systems
 - [Arab Spring (2011)](../history-politics/arab-spring.md) — The year's other defining wave of institutional stress across governments and societies
 <!-- END GENERATED: crossrefs -->
