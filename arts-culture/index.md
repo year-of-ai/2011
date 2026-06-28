@@ -6,5 +6,6 @@ Topics in the **Arts & Culture** category of the 2011 knowledge base.
 - [2011 Hugo Awards in Science Fiction (August 17–21, 2011)](hugo-awards-2011.md) — Science fiction's top honors went to Connie Willis's *Blackout/All Clear* and Ted Chiang's novella at Reno's Renovation Worldcon, alongside the Nebula Awards in Washington, D.C.
 - [2011 in Film](2011-in-film.md) — A record-breaking year for cinema in which three films first crossed $1 billion worldwide, alongside critical triumphs such as *The Artist* and *The Tree of Life*.
 - [2011 Pulitzer Prizes (April 18, 2011)](pulitzer-prizes-2011.md) — The Pulitzer Board honored Jennifer Egan's *A Visit From the Goon Squad* (Fiction) and Bruce Norris's *Clybourne Park* (Drama), and awarded its first prize for online-only work to ProPublica's *The Wall Street Money Machine*.
+- [Game of Thrones Series Premiere (April 17, 2011)](game-of-thrones-premiere-2011.md) — HBO's epic fantasy adaptation of George R. R. Martin's novels premiered with "Winter Is Coming," launching one of television's most influential and decorated drama series.
 - [Music in 2011](music-2011.md) — A landmark year dominated by Adele's *21* and Arcade Fire's Grammy recognition, marking the mainstream rise of hip-hop crossover, female-fronted pop, and the dawn of streaming.
 <!-- END GENERATED: category-index:arts-culture -->

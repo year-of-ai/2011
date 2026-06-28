@@ -11,6 +11,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | 2011 (year-long) | 2011 in Film | Arts & Culture | [link](arts-culture/2011-in-film.md) |
 | 2011 (year-long) | Music in 2011 | Arts & Culture | [link](arts-culture/music-2011.md) |
 | Dec 17, 2010 – Jan 14, 2011 | Tunisian Revolution (Jasmine Revolution) | History & Politics | [link](history-politics/tunisian-revolution-2011.md) |
+| Jan 25 – Feb 11, 2011 | Egyptian Revolution (Mubarak resigns) | History & Politics | [link](history-politics/egyptian-revolution-2011.md) |
 | Feb 15 – Oct 23, 2011 | Libyan Civil War & NATO intervention | History & Politics | [link](history-politics/libyan-civil-war-2011.md) |
 | Feb 19 – Apr 2, 2011 | Cricket World Cup 2011 | Society & Economics | [link](society-economics/cricket-world-cup-2011.md) |
 | Feb 22, 2011 | Christchurch earthquake | Society & Economics | [link](society-economics/christchurch-earthquake-2011.md) |
@@ -18,6 +19,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Mar 11, 2011 | Tōhoku earthquake and tsunami | Society & Economics | [link](society-economics/tohoku-earthquake-tsunami-2011.md) |
 | Mar 11, 2011 | Fukushima Daiichi disaster | Science & Technology | [link](science-technology/fukushima-daiichi-disaster.md) |
 | Mar 23, 2011 | Death of Elizabeth Taylor | People | [link](people/elizabeth-taylor.md) |
+| Apr 17, 2011 | Game of Thrones series premiere on HBO | Arts & Culture | [link](arts-culture/game-of-thrones-premiere-2011.md) |
 | Apr 18, 2011 | 2011 Pulitzer Prizes announced | Arts & Culture | [link](arts-culture/pulitzer-prizes-2011.md) |
 | Apr 29, 2011 | Royal Wedding of Prince William and Catherine Middleton | History & Politics | [link](history-politics/royal-wedding-2011.md) |
 | May 2, 2011 | Death of Osama bin Laden | History & Politics | [link](history-politics/osama-bin-laden-death.md) |
@@ -25,6 +27,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Jul 21, 2011 | Space Shuttle program ends (STS-135) | Science & Technology | [link](science-technology/space-shuttle-final-mission.md) |
 | Jul 22, 2011 | 2011 Norway attacks (Oslo bombing and Utøya massacre) | History & Politics | [link](history-politics/norway-attacks-2011.md) |
 | Jul 23, 2011 | Death of Amy Winehouse | People | [link](people/amy-winehouse.md) |
+| Aug 5, 2011 | S&P downgrades U.S. credit rating to AA+ | Society & Economics | [link](society-economics/us-credit-rating-downgrade-2011.md) |
 | Aug 6–11, 2011 | 2011 England riots | Society & Economics | [link](society-economics/2011-england-riots.md) |
 | Aug 17, 2011 | 2011 Hugo Awards (Renovation Worldcon, Reno) | Arts & Culture | [link](arts-culture/hugo-awards-2011.md) |
 | Sep 17, 2011 | Occupy Wall Street begins | Society & Economics | [link](society-economics/occupy-wall-street.md) |

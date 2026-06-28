@@ -11,6 +11,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [Death of Kim Jong Il (December 17, 2011)](history-politics/kim-jong-il-death.md)
 - [Death of Osama bin Laden (May 2, 2011)](history-politics/osama-bin-laden-death.md)
 - [Death of Václav Havel (December 18, 2011)](history-politics/vaclav-havel-death.md)
+- [Egyptian Revolution of 2011 (January 25 – February 11, 2011)](history-politics/egyptian-revolution-2011.md)
 - [End of the Iraq War — U.S. Withdrawal (December 18, 2011)](history-politics/iraq-war-end-2011.md)
 - [Libyan Civil War & NATO Intervention (February–October 2011)](history-politics/libyan-civil-war-2011.md)
 - [Royal Wedding of Prince William and Catherine Middleton (April 29, 2011)](history-politics/royal-wedding-2011.md)
@@ -34,6 +35,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [2011 Hugo Awards in Science Fiction (August 17–21, 2011)](arts-culture/hugo-awards-2011.md)
 - [2011 in Film](arts-culture/2011-in-film.md)
 - [2011 Pulitzer Prizes (April 18, 2011)](arts-culture/pulitzer-prizes-2011.md)
+- [Game of Thrones Series Premiere (April 17, 2011)](arts-culture/game-of-thrones-premiere-2011.md)
 - [Music in 2011](arts-culture/music-2011.md)
 
 ## Society & Economics
@@ -45,6 +47,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [Eurozone Sovereign Debt Crisis (2011)](society-economics/eurozone-debt-crisis.md)
 - [Occupy Wall Street (2011)](society-economics/occupy-wall-street.md)
 - [Tōhoku Earthquake and Tsunami (March 11, 2011)](society-economics/tohoku-earthquake-tsunami-2011.md)
+- [United States Credit-Rating Downgrade (August 5, 2011)](society-economics/us-credit-rating-downgrade-2011.md)
 - [World Population Reaches Seven Billion (October 31, 2011)](society-economics/world-population-seven-billion.md)
 
 ## People

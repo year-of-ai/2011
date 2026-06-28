@@ -67,6 +67,7 @@ The Tunisian Revolution initiated the Arab Spring — the sequence of uprisings 
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [Arab Spring (2011)](arab-spring.md) — The wider regional wave of uprisings triggered by the Tunisian Revolution
+- [Egyptian Revolution of 2011 (January 25 – February 11, 2011)](egyptian-revolution-2011.md) — The uprising that Tunisia's success inspired weeks later, toppling Hosni Mubarak
 - [Libyan Civil War & NATO Intervention (February–October 2011)](libyan-civil-war-2011.md) — The Arab Spring's most violent escalation, directly inspired by Tunisia's success
 - [Occupy Wall Street (2011)](../society-economics/occupy-wall-street.md) — A global protest movement partly inspired by Arab Spring organizing tactics
 <!-- END GENERATED: crossrefs -->
