@@ -66,6 +66,7 @@ The launch was inseparable from the grief surrounding Jobs's death on October 5,
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [Steve Jobs (October 5, 2011)](../people/steve-jobs.md) — Apple's co-founder, who died the day after the iPhone 4S was announced
 - [Android Mobile Platform Rise (2011)](android-mobile-rise.md) — The rival ecosystem that had just overtaken iOS in global shipments and rapidly answered Siri with its own voice assistants
+- [IBM Watson Wins Jeopardy! (February 14–16, 2011)](watson-jeopardy-2011.md) — The year's other watershed in applied natural-language AI, demonstrating open-domain question answering eight months before Siri reached consumers
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

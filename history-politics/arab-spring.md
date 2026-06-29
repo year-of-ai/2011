@@ -56,7 +56,7 @@ The simultaneous eruption of protest movements across multiple countries in 2011
 - [Libyan Civil War & NATO Intervention (February–October 2011)](libyan-civil-war-2011.md) — The Arab Spring's most violent chapter, escalating from Benghazi protests into an eight-month war that toppled Gaddafi
 - [Egyptian Revolution of 2011 (January 25 – February 11, 2011)](egyptian-revolution-2011.md) — The Arab Spring's centerpiece, in which 18 days of Tahrir Square protests forced Hosni Mubarak from power
 - [Death of Osama bin Laden (May 2, 2011)](osama-bin-laden-death.md) — A defining 2011 counterterrorism event whose timing alongside the uprisings sharpened debate over the future of political Islam and extremism
-- [South Sudan Independence (July 9, 2011)](south-sudan-independence.md) — A parallel 2011 transformation of the political map across Sudan's northern and eastern neighbours
+- [Onset of the Syrian Civil War (March 15, 2011)](syrian-civil-war-2011.md) — The Arab Spring uprising that diverged from the others, hardening into a protracted civil war and one of the century's gravest humanitarian catastrophes
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
