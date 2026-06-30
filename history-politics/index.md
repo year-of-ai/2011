@@ -4,6 +4,7 @@ Topics in the **History & Politics** category of the 2011 knowledge base.
 
 <!-- BEGIN GENERATED: category-index:history-politics — maintained by build-structure; do not edit by hand -->
 - [2011 Norway Attacks (July 22, 2011)](norway-attacks-2011.md) — Far-right extremist Anders Behring Breivik killed 77 people in an Oslo car bombing and a mass shooting at a Labour Party youth camp on Utøya — Norway's deadliest attack since the Second World War.
+- [2011 Tucson Shooting (January 8, 2011)](2011-tucson-shooting.md) — A gunman killed six people and gravely wounded U.S. Representative Gabrielle Giffords at a constituent event near Tucson, igniting a national debate over political rhetoric and gun policy.
 - [Arab Spring (2011)](arab-spring.md) — A wave of pro-democracy uprisings and armed rebellions swept the Arab world, toppling governments in Tunisia, Egypt, Libya, and Yemen.
 - [Death of Kim Jong Il (December 17, 2011)](kim-jong-il-death.md) — North Korea's leader since 1994 died of a heart attack; his son Kim Jong Un succeeded him at exceptional speed, reshaping East Asian security.
 - [Death of Osama bin Laden (May 2, 2011)](osama-bin-laden-death.md) — U.S. Navy SEALs killed the al-Qaeda founder in a covert raid on his compound in Abbottabad, Pakistan, ending a decade-long manhunt.

@@ -11,6 +11,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | 2011 (year-long) | 2011 in Film | Arts & Culture | [link](arts-culture/2011-in-film.md) |
 | 2011 (year-long) | Music in 2011 | Arts & Culture | [link](arts-culture/music-2011.md) |
 | Dec 17, 2010 – Jan 14, 2011 | Tunisian Revolution (Jasmine Revolution) | History & Politics | [link](history-politics/tunisian-revolution-2011.md) |
+| Jan 8, 2011 | 2011 Tucson shooting (Rep. Gabrielle Giffords gravely wounded) | History & Politics | [link](history-politics/2011-tucson-shooting.md) |
 | Jan 25 – Feb 11, 2011 | Egyptian Revolution (Mubarak resigns) | History & Politics | [link](history-politics/egyptian-revolution-2011.md) |
 | Feb 14–16, 2011 | IBM Watson wins Jeopardy! exhibition match | Science & Technology | [link](science-technology/watson-jeopardy-2011.md) |
 | Feb 15 – Oct 23, 2011 | Libyan Civil War & NATO intervention | History & Politics | [link](history-politics/libyan-civil-war-2011.md) |
@@ -26,6 +27,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Apr 29, 2011 | Royal Wedding of Prince William and Catherine Middleton | History & Politics | [link](history-politics/royal-wedding-2011.md) |
 | May 2, 2011 | Death of Osama bin Laden | History & Politics | [link](history-politics/osama-bin-laden-death.md) |
 | Jul 9, 2011 | South Sudan independence | History & Politics | [link](history-politics/south-sudan-independence.md) |
+| Jul 20, 2011 | UN declares famine in southern Somalia (2011 East Africa drought) | Society & Economics | [link](society-economics/east-africa-drought-2011.md) |
 | Jul 21, 2011 | Space Shuttle program ends (STS-135) | Science & Technology | [link](science-technology/space-shuttle-final-mission.md) |
 | Jul 22, 2011 | 2011 Norway attacks (Oslo bombing and Utøya massacre) | History & Politics | [link](history-politics/norway-attacks-2011.md) |
 | Jul 23, 2011 | Death of Amy Winehouse | People | [link](people/amy-winehouse.md) |

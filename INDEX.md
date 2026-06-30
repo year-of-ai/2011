@@ -7,6 +7,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 [Category index](history-politics/index.md)
 
 - [2011 Norway Attacks (July 22, 2011)](history-politics/norway-attacks-2011.md)
+- [2011 Tucson Shooting (January 8, 2011)](history-politics/2011-tucson-shooting.md)
 - [Arab Spring (2011)](history-politics/arab-spring.md)
 - [Death of Kim Jong Il (December 17, 2011)](history-politics/kim-jong-il-death.md)
 - [Death of Osama bin Laden (May 2, 2011)](history-politics/osama-bin-laden-death.md)
@@ -43,6 +44,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 ## Society & Economics
 [Category index](society-economics/index.md)
 
+- [2011 East Africa Drought and Somalia Famine (July 20, 2011)](society-economics/east-africa-drought-2011.md)
 - [2011 England Riots (August 6–11, 2011)](society-economics/2011-england-riots.md)
 - [Christchurch Earthquake (February 22, 2011)](society-economics/christchurch-earthquake-2011.md)
 - [Cricket World Cup 2011 (February 19 – April 2, 2011)](society-economics/cricket-world-cup-2011.md)

@@ -24,6 +24,7 @@ This knowledge base organizes content across five taxonomy categories:
 | Event | Description |
 |---|---|
 | [Tunisian Revolution – Jasmine Revolution (Dec 2010 – Jan 2011)](history-politics/tunisian-revolution-2011.md) | Civil resistance movement ousted 23-year dictator Ben Ali in 28 days, sparking the Arab Spring and earning Tunisia its democratic transition. |
+| [2011 Tucson Shooting (Jan 8, 2011)](history-politics/2011-tucson-shooting.md) | Gunman Jared Lee Loughner shot U.S. Representative Gabrielle Giffords in the head and killed six others, triggering a national debate on rhetoric, mental health, and gun policy. |
 | [Arab Spring (2011)](history-politics/arab-spring.md) | Wave of pro-democracy uprisings swept North Africa and the Middle East, toppling governments in Tunisia, Egypt, Libya, and Yemen. |
 | [Libyan Civil War & NATO Intervention (Feb-Oct 2011)](history-politics/libyan-civil-war-2011.md) | Anti-Gaddafi uprising escalated into armed conflict; NATO intervention via UN Resolution 1973 led to regime collapse and Gaddafi's death on October 20. |
 | [Royal Wedding of Prince William and Catherine (Apr 29, 2011)](history-politics/royal-wedding-2011.md) | Prince William married Catherine Middleton at Westminster Abbey in London's most-watched cultural event, viewed globally by approximately 2 billion people. |
@@ -35,6 +36,7 @@ This knowledge base organizes content across five taxonomy categories:
 | [2011 England Riots (Aug 6–11, 2011)](society-economics/2011-england-riots.md) | Urban unrest spanning London and major cities resulted in five deaths, £200 million in property damage, and revealed deep social fractures in British society. |
 | [Occupy Wall Street (Sep 17, 2011)](society-economics/occupy-wall-street.md) | Protest movement against economic inequality began in New York's Zuccotti Park and spread to hundreds of cities worldwide. |
 | [South Sudan independence (Jul 9, 2011)](history-politics/south-sudan-independence.md) | South Sudan became the world's newest nation after a January referendum, separating from Sudan after decades of civil war. |
+| [2011 East Africa Drought and Somalia Famine (Jul 20, 2011)](society-economics/east-africa-drought-2011.md) | UN declared the first famine of the 21st century in southern Somalia; an estimated 258,000 people died, more than half of them children under five. |
 | [World Population Reaches 7 Billion (Oct 31, 2011)](society-economics/world-population-seven-billion.md) | Global human population reached seven billion, prompting United Nations discussions about sustainability, resource allocation, and the implications for future development. |
 | [Eurozone debt crisis (2011)](society-economics/eurozone-debt-crisis.md) | Greece, Ireland, and Portugal took EU/IMF bailouts as contagion to Italy and Spain threatened the survival of the euro. |
 | [Steve Jobs death (Oct 5, 2011)](people/steve-jobs.md) | Apple co-founder and CEO Steve Jobs died of pancreatic cancer, prompting global mourning and tributes to his technological legacy. |
