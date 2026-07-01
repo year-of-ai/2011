@@ -20,6 +20,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [South Sudan Independence (July 9, 2011)](history-politics/south-sudan-independence.md)
 - [Tunisian Revolution / Jasmine Revolution (December 17, 2010 – January 14, 2011)](history-politics/tunisian-revolution-2011.md)
 - [WikiLeaks and Bradley Manning (March 1, 2011)](history-politics/wikileaks-bradley-manning.md)
+- [Yemeni Revolution (2011)](history-politics/yemeni-revolution-2011.md)
 
 ## Science & Technology
 [Category index](science-technology/index.md)
@@ -46,6 +47,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 
 - [2011 East Africa Drought and Somalia Famine (July 20, 2011)](society-economics/east-africa-drought-2011.md)
 - [2011 England Riots (August 6–11, 2011)](society-economics/2011-england-riots.md)
+- [2011 Rugby World Cup (September 9 – October 23, 2011)](society-economics/rugby-world-cup-2011.md)
 - [Christchurch Earthquake (February 22, 2011)](society-economics/christchurch-earthquake-2011.md)
 - [Cricket World Cup 2011 (February 19 – April 2, 2011)](society-economics/cricket-world-cup-2011.md)
 - [Eurozone Sovereign Debt Crisis (2011)](society-economics/eurozone-debt-crisis.md)

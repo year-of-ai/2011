@@ -17,4 +17,5 @@ Topics in the **History & Politics** category of the 2011 knowledge base.
 - [South Sudan Independence (July 9, 2011)](south-sudan-independence.md) — South Sudan became the world's newest nation after a January referendum, separating from Sudan following decades of civil war.
 - [Tunisian Revolution / Jasmine Revolution (December 17, 2010 – January 14, 2011)](tunisian-revolution-2011.md) — A 28-day campaign of civil resistance ousted President Ben Ali after 23 years in power, igniting the Arab Spring and beginning Tunisia's democratic transition.
 - [WikiLeaks and Bradley Manning (March 1, 2011)](wikileaks-bradley-manning.md) — The U.S. Army filed 22 superseding charges, including aiding the enemy, against the analyst behind the largest leak of classified U.S. documents in history.
+- [Yemeni Revolution (2011)](yemeni-revolution-2011.md) — Arab Spring protests forced President Ali Abdullah Saleh to sign a GCC-brokered transition ending his 33-year rule, though Yemen remained deeply unstable.
 <!-- END GENERATED: category-index:history-politics -->

@@ -13,6 +13,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Dec 17, 2010 – Jan 14, 2011 | Tunisian Revolution (Jasmine Revolution) | History & Politics | [link](history-politics/tunisian-revolution-2011.md) |
 | Jan 8, 2011 | 2011 Tucson shooting (Rep. Gabrielle Giffords gravely wounded) | History & Politics | [link](history-politics/2011-tucson-shooting.md) |
 | Jan 25 – Feb 11, 2011 | Egyptian Revolution (Mubarak resigns) | History & Politics | [link](history-politics/egyptian-revolution-2011.md) |
+| Jan 27 – Nov 23, 2011 | Yemeni Revolution (Saleh signs GCC transition deal) | History & Politics | [link](history-politics/yemeni-revolution-2011.md) |
 | Feb 14–16, 2011 | IBM Watson wins Jeopardy! exhibition match | Science & Technology | [link](science-technology/watson-jeopardy-2011.md) |
 | Feb 15 – Oct 23, 2011 | Libyan Civil War & NATO intervention | History & Politics | [link](history-politics/libyan-civil-war-2011.md) |
 | Feb 19 – Apr 2, 2011 | Cricket World Cup 2011 | Society & Economics | [link](society-economics/cricket-world-cup-2011.md) |
@@ -34,6 +35,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Aug 5, 2011 | S&P downgrades U.S. credit rating to AA+ | Society & Economics | [link](society-economics/us-credit-rating-downgrade-2011.md) |
 | Aug 6–11, 2011 | 2011 England riots | Society & Economics | [link](society-economics/2011-england-riots.md) |
 | Aug 17, 2011 | 2011 Hugo Awards (Renovation Worldcon, Reno) | Arts & Culture | [link](arts-culture/hugo-awards-2011.md) |
+| Sep 9 – Oct 23, 2011 | 2011 Rugby World Cup (New Zealand wins) | Society & Economics | [link](society-economics/rugby-world-cup-2011.md) |
 | Sep 17, 2011 | Occupy Wall Street begins | Society & Economics | [link](society-economics/occupy-wall-street.md) |
 | Oct 3–10, 2011 | 2011 Nobel Prizes announced | Science & Technology | [link](science-technology/nobel-prizes-2011.md) |
 | Oct 5, 2011 | Steve Jobs death | People | [link](people/steve-jobs.md) |
