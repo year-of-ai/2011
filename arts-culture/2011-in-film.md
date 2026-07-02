@@ -81,7 +81,7 @@ The 84th Academy Awards, held on February 26, 2012, honored the best films of 20
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [Steve Jobs (October 5, 2011)](../people/steve-jobs.md) — The Apple co-founder's death in October 2011 was later the subject of documentary and dramatic films, and his design philosophy shaped the year's prestige cinema aesthetics
-- [Occupy Wall Street (2011)](../society-economics/occupy-wall-street.md) — The year's economic anxieties found indirect expression on screen in films such as *Margin Call* (October 2011), set inside a Wall Street firm on the eve of the 2008 crisis
+- [83rd Academy Awards (February 27, 2011)](academy-awards-2011.md) — The February 2011 ceremony crowned *The King's Speech* Best Picture, honoring the films of 2010 on the eve of this record-breaking box-office year
 - [Music in 2011](music-2011.md) — The parallel cultural milestone of the same year, as music's pivot toward streaming and album-driven narratives mirrored cinema's record-breaking box office
 - [2011 Hugo Awards in Science Fiction](hugo-awards-2011.md) — *Inception* was honored at both ceremonies, winning the Hugo for Best Dramatic Presentation and linking the year's screen science fiction to its literary recognition
 <!-- END GENERATED: crossrefs -->

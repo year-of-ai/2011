@@ -47,7 +47,7 @@ Apple's trajectory after 2011 tested and ultimately validated his institutional 
 - [iPhone 4S & Siri Introduction (October 14, 2011)](../science-technology/iphone-4s-siri.md) — Apple's last product launch announced in Jobs's lifetime, unveiled the day before his death
 - [Android Mobile Platform Rise (2011)](../science-technology/android-mobile-rise.md) — The rival smartphone platform that overtook Apple's iOS in global market share in 2011
 - [Space Shuttle Program Ends (July 21, 2011)](../science-technology/space-shuttle-final-mission.md) — Another defining technological transition of 2011
-- [Music in 2011](../arts-culture/music-2011.md) — Apple's iTunes ecosystem, built under Jobs, remained the dominant music-distribution platform in 2011 as Spotify's US launch began the shift to streaming
+- [Dennis Ritchie (October 12, 2011)](dennis-ritchie.md) — The creator of C and co-creator of Unix died eight days after Jobs; the foundations of Apple's software trace back to his work
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -30,6 +30,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [Fukushima Daiichi Nuclear Disaster (March 11, 2011)](science-technology/fukushima-daiichi-disaster.md)
 - [IBM Watson Wins Jeopardy! (February 14–16, 2011)](science-technology/watson-jeopardy-2011.md)
 - [iPhone 4S & Siri Introduction (October 14, 2011)](science-technology/iphone-4s-siri.md)
+- [MESSENGER Enters Orbit Around Mercury (March 18, 2011)](science-technology/messenger-mercury-orbit.md)
 - [NASA Curiosity Rover Launch (November 26, 2011)](science-technology/nasa-curiosity-rover.md)
 - [Space Shuttle Program Ends (July 21, 2011)](science-technology/space-shuttle-final-mission.md)
 
@@ -39,6 +40,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [2011 Hugo Awards in Science Fiction (August 17–21, 2011)](arts-culture/hugo-awards-2011.md)
 - [2011 in Film](arts-culture/2011-in-film.md)
 - [2011 Pulitzer Prizes (April 18, 2011)](arts-culture/pulitzer-prizes-2011.md)
+- [83rd Academy Awards (February 27, 2011)](arts-culture/academy-awards-2011.md)
 - [Game of Thrones Series Premiere (April 17, 2011)](arts-culture/game-of-thrones-premiere-2011.md)
 - [Music in 2011](arts-culture/music-2011.md)
 
@@ -61,5 +63,6 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 
 - [Death of Amy Winehouse (July 23, 2011)](people/amy-winehouse.md)
 - [Death of Elizabeth Taylor (March 23, 2011)](people/elizabeth-taylor.md)
+- [Dennis Ritchie (October 12, 2011)](people/dennis-ritchie.md)
 - [Steve Jobs (October 5, 2011)](people/steve-jobs.md)
 <!-- END GENERATED: master-index -->

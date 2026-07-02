@@ -18,10 +18,12 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Feb 15 – Oct 23, 2011 | Libyan Civil War & NATO intervention | History & Politics | [link](history-politics/libyan-civil-war-2011.md) |
 | Feb 19 – Apr 2, 2011 | Cricket World Cup 2011 | Society & Economics | [link](society-economics/cricket-world-cup-2011.md) |
 | Feb 22, 2011 | Christchurch earthquake | Society & Economics | [link](society-economics/christchurch-earthquake-2011.md) |
+| Feb 27, 2011 | 83rd Academy Awards (The King's Speech wins Best Picture) | Arts & Culture | [link](arts-culture/academy-awards-2011.md) |
 | Mar 1, 2011 | WikiLeaks superseding charges against Bradley Manning | History & Politics | [link](history-politics/wikileaks-bradley-manning.md) |
 | Mar 11, 2011 | Tōhoku earthquake and tsunami | Society & Economics | [link](society-economics/tohoku-earthquake-tsunami-2011.md) |
 | Mar 11, 2011 | Fukushima Daiichi disaster | Science & Technology | [link](science-technology/fukushima-daiichi-disaster.md) |
 | Mar 15, 2011 | Onset of the Syrian Civil War (Daraa protests) | History & Politics | [link](history-politics/syrian-civil-war-2011.md) |
+| Mar 18, 2011 | MESSENGER becomes first spacecraft to orbit Mercury | Science & Technology | [link](science-technology/messenger-mercury-orbit.md) |
 | Mar 23, 2011 | Death of Elizabeth Taylor | People | [link](people/elizabeth-taylor.md) |
 | Apr 17, 2011 | Game of Thrones series premiere on HBO | Arts & Culture | [link](arts-culture/game-of-thrones-premiere-2011.md) |
 | Apr 18, 2011 | 2011 Pulitzer Prizes announced | Arts & Culture | [link](arts-culture/pulitzer-prizes-2011.md) |
@@ -39,6 +41,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Sep 17, 2011 | Occupy Wall Street begins | Society & Economics | [link](society-economics/occupy-wall-street.md) |
 | Oct 3–10, 2011 | 2011 Nobel Prizes announced | Science & Technology | [link](science-technology/nobel-prizes-2011.md) |
 | Oct 5, 2011 | Steve Jobs death | People | [link](people/steve-jobs.md) |
+| Oct 12, 2011 | Death of Dennis Ritchie (creator of C and Unix) | People | [link](people/dennis-ritchie.md) |
 | Oct 14, 2011 | iPhone 4S & Siri introduced | Science & Technology | [link](science-technology/iphone-4s-siri.md) |
 | Oct 31, 2011 | World population reaches seven billion | Society & Economics | [link](society-economics/world-population-seven-billion.md) |
 | Nov 26, 2011 | NASA launches Curiosity rover | Science & Technology | [link](science-technology/nasa-curiosity-rover.md) |

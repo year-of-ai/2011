@@ -64,7 +64,7 @@ The rover's longevity — remaining operational more than a decade after landing
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [Space Shuttle Program Ends (July 21, 2011)](space-shuttle-final-mission.md) — The end of crewed spaceflight four months before Curiosity's launch, framing the broader context of NASA's 2011 transition
-- [Android Mobile Platform Rise (2011)](android-mobile-rise.md) — A parallel 2011 story of transformative technology advancing beyond prior constraints
+- [MESSENGER Enters Orbit Around Mercury (March 18, 2011)](messenger-mercury-orbit.md) — NASA's other major 2011 planetary-exploration milestone, the first spacecraft ever to orbit Mercury
 - [Fukushima Daiichi Nuclear Disaster (March 11, 2011)](fukushima-daiichi-disaster.md) — Another 2011 event at the intersection of complex technology and public scientific attention
 <!-- END GENERATED: crossrefs -->
 
