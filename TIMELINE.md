@@ -29,6 +29,8 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Apr 18, 2011 | 2011 Pulitzer Prizes announced | Arts & Culture | [link](arts-culture/pulitzer-prizes-2011.md) |
 | Apr 29, 2011 | Royal Wedding of Prince William and Catherine Middleton | History & Politics | [link](history-politics/royal-wedding-2011.md) |
 | May 2, 2011 | Death of Osama bin Laden | History & Politics | [link](history-politics/osama-bin-laden-death.md) |
+| May 10, 2011 | Microsoft announces $8.5 billion acquisition of Skype | Society & Economics | [link](society-economics/skype-microsoft-acquisition-2011.md) |
+| Jun 28, 2011 | Google+ social network launches | Science & Technology | [link](science-technology/google-plus-launch-2011.md) |
 | Jul 9, 2011 | South Sudan independence | History & Politics | [link](history-politics/south-sudan-independence.md) |
 | Jul 20, 2011 | UN declares famine in southern Somalia (2011 East Africa drought) | Society & Economics | [link](society-economics/east-africa-drought-2011.md) |
 | Jul 21, 2011 | Space Shuttle program ends (STS-135) | Science & Technology | [link](science-technology/space-shuttle-final-mission.md) |
@@ -45,7 +47,10 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Oct 14, 2011 | iPhone 4S & Siri introduced | Science & Technology | [link](science-technology/iphone-4s-siri.md) |
 | Oct 31, 2011 | World population reaches seven billion | Society & Economics | [link](society-economics/world-population-seven-billion.md) |
 | Nov 26, 2011 | NASA launches Curiosity rover | Science & Technology | [link](science-technology/nasa-curiosity-rover.md) |
+| Dec 15, 2011 | Death of Christopher Hitchens | People | [link](people/christopher-hitchens.md) |
 | Dec 17, 2011 | Death of Kim Jong Il | History & Politics | [link](history-politics/kim-jong-il-death.md) |
 | Dec 18, 2011 | Death of Václav Havel | History & Politics | [link](history-politics/vaclav-havel-death.md) |
 | Dec 18, 2011 | End of the Iraq War — last U.S. troops withdraw | History & Politics | [link](history-politics/iraq-war-end-2011.md) |
+| Jan 18, 2012 | Wikipedia SOPA/PIPA blackout (protest of 2011-introduced bills) | Science & Technology | [link](science-technology/wikipedia-sopa-blackout-2011.md) |
+| Jan 19, 2012 | Eastman Kodak files for Chapter 11 bankruptcy | Society & Economics | [link](society-economics/kodak-bankruptcy-2011.md) |
 <!-- END GENERATED: timeline -->

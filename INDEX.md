@@ -28,11 +28,13 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [2011 Nobel Prizes (October 2011)](science-technology/nobel-prizes-2011.md)
 - [Android Mobile Platform Rise (2011)](science-technology/android-mobile-rise.md)
 - [Fukushima Daiichi Nuclear Disaster (March 11, 2011)](science-technology/fukushima-daiichi-disaster.md)
+- [Google+ Launch (June 28, 2011)](science-technology/google-plus-launch-2011.md)
 - [IBM Watson Wins Jeopardy! (February 14–16, 2011)](science-technology/watson-jeopardy-2011.md)
 - [iPhone 4S & Siri Introduction (October 14, 2011)](science-technology/iphone-4s-siri.md)
 - [MESSENGER Enters Orbit Around Mercury (March 18, 2011)](science-technology/messenger-mercury-orbit.md)
 - [NASA Curiosity Rover Launch (November 26, 2011)](science-technology/nasa-curiosity-rover.md)
 - [Space Shuttle Program Ends (July 21, 2011)](science-technology/space-shuttle-final-mission.md)
+- [Wikipedia SOPA Blackout (January 18, 2012)](science-technology/wikipedia-sopa-blackout-2011.md)
 
 ## Arts & Culture
 [Category index](arts-culture/index.md)
@@ -53,7 +55,9 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [Christchurch Earthquake (February 22, 2011)](society-economics/christchurch-earthquake-2011.md)
 - [Cricket World Cup 2011 (February 19 – April 2, 2011)](society-economics/cricket-world-cup-2011.md)
 - [Eurozone Sovereign Debt Crisis (2011)](society-economics/eurozone-debt-crisis.md)
+- [Kodak Bankruptcy Filing (January 19, 2012)](society-economics/kodak-bankruptcy-2011.md)
 - [Occupy Wall Street (2011)](society-economics/occupy-wall-street.md)
+- [Skype Acquisition by Microsoft (May 10, 2011)](society-economics/skype-microsoft-acquisition-2011.md)
 - [Tōhoku Earthquake and Tsunami (March 11, 2011)](society-economics/tohoku-earthquake-tsunami-2011.md)
 - [United States Credit-Rating Downgrade (August 5, 2011)](society-economics/us-credit-rating-downgrade-2011.md)
 - [World Population Reaches Seven Billion (October 31, 2011)](society-economics/world-population-seven-billion.md)
@@ -62,6 +66,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 [Category index](people/index.md)
 
 - [Death of Amy Winehouse (July 23, 2011)](people/amy-winehouse.md)
+- [Death of Christopher Hitchens (December 15, 2011)](people/christopher-hitchens.md)
 - [Death of Elizabeth Taylor (March 23, 2011)](people/elizabeth-taylor.md)
 - [Dennis Ritchie (October 12, 2011)](people/dennis-ritchie.md)
 - [Steve Jobs (October 5, 2011)](people/steve-jobs.md)
