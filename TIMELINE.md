@@ -31,16 +31,19 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | May 2, 2011 | Death of Osama bin Laden | History & Politics | [link](history-politics/osama-bin-laden-death.md) |
 | May 10, 2011 | Microsoft announces $8.5 billion acquisition of Skype | Society & Economics | [link](society-economics/skype-microsoft-acquisition-2011.md) |
 | Jun 28, 2011 | Google+ social network launches | Science & Technology | [link](science-technology/google-plus-launch-2011.md) |
+| Jul 4–10, 2011 | News of the World phone-hacking crisis (Milly Dowler report to newspaper's closure) | History & Politics | [link](history-politics/news-of-the-world-scandal-2011.md) |
 | Jul 9, 2011 | South Sudan independence | History & Politics | [link](history-politics/south-sudan-independence.md) |
 | Jul 20, 2011 | UN declares famine in southern Somalia (2011 East Africa drought) | Society & Economics | [link](society-economics/east-africa-drought-2011.md) |
 | Jul 21, 2011 | Space Shuttle program ends (STS-135) | Science & Technology | [link](science-technology/space-shuttle-final-mission.md) |
 | Jul 22, 2011 | 2011 Norway attacks (Oslo bombing and Utøya massacre) | History & Politics | [link](history-politics/norway-attacks-2011.md) |
 | Jul 23, 2011 | Death of Amy Winehouse | People | [link](people/amy-winehouse.md) |
+| Jul–Dec 2011 (peak Oct–Nov) | Thailand monsoon floods (Chao Phraya basin, Bangkok) | Society & Economics | [link](society-economics/thailand-2011-floods.md) |
 | Aug 5, 2011 | S&P downgrades U.S. credit rating to AA+ | Society & Economics | [link](society-economics/us-credit-rating-downgrade-2011.md) |
 | Aug 6–11, 2011 | 2011 England riots | Society & Economics | [link](society-economics/2011-england-riots.md) |
 | Aug 17, 2011 | 2011 Hugo Awards (Renovation Worldcon, Reno) | Arts & Culture | [link](arts-culture/hugo-awards-2011.md) |
 | Sep 9 – Oct 23, 2011 | 2011 Rugby World Cup (New Zealand wins) | Society & Economics | [link](society-economics/rugby-world-cup-2011.md) |
 | Sep 17, 2011 | Occupy Wall Street begins | Society & Economics | [link](society-economics/occupy-wall-street.md) |
+| Sep 26, 2011 | Death of Wangari Maathai | People | [link](people/wangari-maathai.md) |
 | Oct 3–10, 2011 | 2011 Nobel Prizes announced | Science & Technology | [link](science-technology/nobel-prizes-2011.md) |
 | Oct 5, 2011 | Steve Jobs death | People | [link](people/steve-jobs.md) |
 | Oct 12, 2011 | Death of Dennis Ritchie (creator of C and Unix) | People | [link](people/dennis-ritchie.md) |

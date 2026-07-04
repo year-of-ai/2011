@@ -15,6 +15,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [Egyptian Revolution of 2011 (January 25 – February 11, 2011)](history-politics/egyptian-revolution-2011.md)
 - [End of the Iraq War — U.S. Withdrawal (December 18, 2011)](history-politics/iraq-war-end-2011.md)
 - [Libyan Civil War & NATO Intervention (February–October 2011)](history-politics/libyan-civil-war-2011.md)
+- [News of the World Phone Hacking Scandal (2011)](history-politics/news-of-the-world-scandal-2011.md)
 - [Onset of the Syrian Civil War (March 15, 2011)](history-politics/syrian-civil-war-2011.md)
 - [Royal Wedding of Prince William and Catherine Middleton (April 29, 2011)](history-politics/royal-wedding-2011.md)
 - [South Sudan Independence (July 9, 2011)](history-politics/south-sudan-independence.md)
@@ -58,6 +59,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [Kodak Bankruptcy Filing (January 19, 2012)](society-economics/kodak-bankruptcy-2011.md)
 - [Occupy Wall Street (2011)](society-economics/occupy-wall-street.md)
 - [Skype Acquisition by Microsoft (May 10, 2011)](society-economics/skype-microsoft-acquisition-2011.md)
+- [Thailand 2011 Monsoon Floods (October 2011)](society-economics/thailand-2011-floods.md)
 - [Tōhoku Earthquake and Tsunami (March 11, 2011)](society-economics/tohoku-earthquake-tsunami-2011.md)
 - [United States Credit-Rating Downgrade (August 5, 2011)](society-economics/us-credit-rating-downgrade-2011.md)
 - [World Population Reaches Seven Billion (October 31, 2011)](society-economics/world-population-seven-billion.md)
@@ -68,6 +70,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [Death of Amy Winehouse (July 23, 2011)](people/amy-winehouse.md)
 - [Death of Christopher Hitchens (December 15, 2011)](people/christopher-hitchens.md)
 - [Death of Elizabeth Taylor (March 23, 2011)](people/elizabeth-taylor.md)
+- [Death of Wangari Maathai (September 26, 2011)](people/wangari-maathai.md)
 - [Dennis Ritchie (October 12, 2011)](people/dennis-ritchie.md)
 - [Steve Jobs (October 5, 2011)](people/steve-jobs.md)
 <!-- END GENERATED: master-index -->

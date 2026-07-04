@@ -51,6 +51,7 @@ The catastrophe also became a defining test of disaster response and resilience.
 - [Fukushima Daiichi Nuclear Disaster (March 11, 2011)](../science-technology/fukushima-daiichi-disaster.md) — The nuclear crisis caused directly by this tsunami when it disabled the plant's cooling systems
 - [Christchurch Earthquake (February 22, 2011)](christchurch-earthquake-2011.md) — A second major 2011 earthquake in the Pacific region, three weeks earlier, that likewise reshaped national disaster policy
 - [Eurozone Sovereign Debt Crisis (2011)](eurozone-debt-crisis.md) — The parallel global economic instability of 2011, against which the disaster's supply-chain shocks reverberated
+- [Thailand 2011 Monsoon Floods (October 2011)](thailand-2011-floods.md) — The year's second major Asian disaster to disrupt global manufacturing supply chains, months after this earthquake
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

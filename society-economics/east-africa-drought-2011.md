@@ -66,6 +66,7 @@ The crisis reinforced the critical importance of early warning systems such as F
 - [Tōhoku Earthquake and Tsunami (March 11, 2011)](tohoku-earthquake-tsunami-2011.md) — The year's other massive humanitarian catastrophe, contrasting a sudden-onset natural disaster with this slow-onset, forecastable famine
 - [South Sudan Independence (July 9, 2011)](../history-politics/south-sudan-independence.md) — A contemporaneous north-east African event whose conflict and displacement dynamics paralleled the drivers of the Somali crisis
 - [World Population Reaches Seven Billion (October 31, 2011)](world-population-seven-billion.md) — The year's demographic milestone, underscoring the food-security and resource pressures dramatized by the famine
+- [Death of Wangari Maathai (September 26, 2011)](../people/wangari-maathai.md) — The Kenyan Nobel laureate, who died the same year, spent three decades fighting the deforestation and land degradation underlying the region's food insecurity
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
