@@ -28,6 +28,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 
 - [2011 Nobel Prizes (October 2011)](science-technology/nobel-prizes-2011.md)
 - [Android Mobile Platform Rise (2011)](science-technology/android-mobile-rise.md)
+- [Faster-Than-Light Neutrino Anomaly (September 23, 2011)](science-technology/faster-than-light-neutrino-anomaly-2011.md)
 - [Fukushima Daiichi Nuclear Disaster (March 11, 2011)](science-technology/fukushima-daiichi-disaster.md)
 - [Google+ Launch (June 28, 2011)](science-technology/google-plus-launch-2011.md)
 - [IBM Watson Wins Jeopardy! (February 14–16, 2011)](science-technology/watson-jeopardy-2011.md)
@@ -46,6 +47,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [83rd Academy Awards (February 27, 2011)](arts-culture/academy-awards-2011.md)
 - [Game of Thrones Series Premiere (April 17, 2011)](arts-culture/game-of-thrones-premiere-2011.md)
 - [Music in 2011](arts-culture/music-2011.md)
+- [The Elder Scrolls V: Skyrim (November 11, 2011)](arts-culture/skyrim-2011.md)
 
 ## Society & Economics
 [Category index](society-economics/index.md)
@@ -70,6 +72,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [Death of Amy Winehouse (July 23, 2011)](people/amy-winehouse.md)
 - [Death of Christopher Hitchens (December 15, 2011)](people/christopher-hitchens.md)
 - [Death of Elizabeth Taylor (March 23, 2011)](people/elizabeth-taylor.md)
+- [Death of Mohamed Bouazizi (January 4, 2011)](people/mohamed-bouazizi.md)
 - [Death of Wangari Maathai (September 26, 2011)](people/wangari-maathai.md)
 - [Dennis Ritchie (October 12, 2011)](people/dennis-ritchie.md)
 - [Steve Jobs (October 5, 2011)](people/steve-jobs.md)

@@ -11,6 +11,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | 2011 (year-long) | 2011 in Film | Arts & Culture | [link](arts-culture/2011-in-film.md) |
 | 2011 (year-long) | Music in 2011 | Arts & Culture | [link](arts-culture/music-2011.md) |
 | Dec 17, 2010 – Jan 14, 2011 | Tunisian Revolution (Jasmine Revolution) | History & Politics | [link](history-politics/tunisian-revolution-2011.md) |
+| Jan 4, 2011 | Death of Mohamed Bouazizi (spark of the Tunisian Revolution and Arab Spring) | People | [link](people/mohamed-bouazizi.md) |
 | Jan 8, 2011 | 2011 Tucson shooting (Rep. Gabrielle Giffords gravely wounded) | History & Politics | [link](history-politics/2011-tucson-shooting.md) |
 | Jan 25 – Feb 11, 2011 | Egyptian Revolution (Mubarak resigns) | History & Politics | [link](history-politics/egyptian-revolution-2011.md) |
 | Jan 27 – Nov 23, 2011 | Yemeni Revolution (Saleh signs GCC transition deal) | History & Politics | [link](history-politics/yemeni-revolution-2011.md) |
@@ -43,12 +44,14 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Aug 17, 2011 | 2011 Hugo Awards (Renovation Worldcon, Reno) | Arts & Culture | [link](arts-culture/hugo-awards-2011.md) |
 | Sep 9 – Oct 23, 2011 | 2011 Rugby World Cup (New Zealand wins) | Society & Economics | [link](society-economics/rugby-world-cup-2011.md) |
 | Sep 17, 2011 | Occupy Wall Street begins | Society & Economics | [link](society-economics/occupy-wall-street.md) |
+| Sep 23, 2011 | OPERA reports apparent faster-than-light neutrinos | Science & Technology | [link](science-technology/faster-than-light-neutrino-anomaly-2011.md) |
 | Sep 26, 2011 | Death of Wangari Maathai | People | [link](people/wangari-maathai.md) |
 | Oct 3–10, 2011 | 2011 Nobel Prizes announced | Science & Technology | [link](science-technology/nobel-prizes-2011.md) |
 | Oct 5, 2011 | Steve Jobs death | People | [link](people/steve-jobs.md) |
 | Oct 12, 2011 | Death of Dennis Ritchie (creator of C and Unix) | People | [link](people/dennis-ritchie.md) |
 | Oct 14, 2011 | iPhone 4S & Siri introduced | Science & Technology | [link](science-technology/iphone-4s-siri.md) |
 | Oct 31, 2011 | World population reaches seven billion | Society & Economics | [link](society-economics/world-population-seven-billion.md) |
+| Nov 11, 2011 | The Elder Scrolls V: Skyrim released | Arts & Culture | [link](arts-culture/skyrim-2011.md) |
 | Nov 26, 2011 | NASA launches Curiosity rover | Science & Technology | [link](science-technology/nasa-curiosity-rover.md) |
 | Dec 15, 2011 | Death of Christopher Hitchens | People | [link](people/christopher-hitchens.md) |
 | Dec 17, 2011 | Death of Kim Jong Il | History & Politics | [link](history-politics/kim-jong-il-death.md) |

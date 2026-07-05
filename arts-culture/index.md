@@ -9,4 +9,5 @@ Topics in the **Arts & Culture** category of the 2011 knowledge base.
 - [83rd Academy Awards (February 27, 2011)](academy-awards-2011.md) — Hosted by James Franco and Anne Hathaway at Hollywood's Kodak Theatre, the ceremony saw *The King's Speech* win Best Picture and tie *Inception* with four Oscars each.
 - [Game of Thrones Series Premiere (April 17, 2011)](game-of-thrones-premiere-2011.md) — HBO's epic fantasy adaptation of George R. R. Martin's novels premiered with "Winter Is Coming," launching one of television's most influential and decorated drama series.
 - [Music in 2011](music-2011.md) — A landmark year dominated by Adele's *21* and Arcade Fire's Grammy recognition, marking the mainstream rise of hip-hop crossover, female-fronted pop, and the dawn of streaming.
+- [The Elder Scrolls V: Skyrim (November 11, 2011)](skyrim-2011.md) — Bethesda's open-world action role-playing game launched to acclaim, shipping millions in its first week and sweeping Game of the Year honors to become a defining title of its era.
 <!-- END GENERATED: category-index:arts-culture -->
