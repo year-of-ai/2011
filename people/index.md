@@ -9,5 +9,6 @@ Topics in the **People** category of the 2011 knowledge base.
 - [Death of Mohamed Bouazizi (January 4, 2011)](mohamed-bouazizi.md) — The Tunisian street vendor whose December 2010 self-immolation and death on January 4, 2011 catalysed the Tunisian Revolution and the wider Arab Spring.
 - [Death of Wangari Maathai (September 26, 2011)](wangari-maathai.md) — The Kenyan founder of the Green Belt Movement and first African woman to win the Nobel Peace Prize died at 71, leaving a legacy uniting environmental conservation, democracy, and women's empowerment.
 - [Dennis Ritchie (October 12, 2011)](dennis-ritchie.md) — The creator of the C programming language and co-creator of Unix died at 70; his largely invisible work underpins nearly all modern operating systems and software.
+- [Literary and Intellectual Figures of 2011](literary-intellectuals-2011.md) — The near-simultaneous December deaths of Christopher Hitchens and Václav Havel framed a year of award-winning literary experimentation and the digital disruption of publishing.
 - [Steve Jobs (October 5, 2011)](steve-jobs.md) — Apple's co-founder and CEO, who reshaped personal computing, music, and mobile technology, died on October 5, 2011, at age 56.
 <!-- END GENERATED: category-index:people -->

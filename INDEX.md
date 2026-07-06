@@ -47,6 +47,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [83rd Academy Awards (February 27, 2011)](arts-culture/academy-awards-2011.md)
 - [Game of Thrones Series Premiere (April 17, 2011)](arts-culture/game-of-thrones-premiere-2011.md)
 - [Music in 2011](arts-culture/music-2011.md)
+- [Television in 2011](arts-culture/television-2011.md)
 - [The Elder Scrolls V: Skyrim (November 11, 2011)](arts-culture/skyrim-2011.md)
 
 ## Society & Economics
@@ -55,6 +56,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [2011 East Africa Drought and Somalia Famine (July 20, 2011)](society-economics/east-africa-drought-2011.md)
 - [2011 England Riots (August 6–11, 2011)](society-economics/2011-england-riots.md)
 - [2011 Rugby World Cup (September 9 – October 23, 2011)](society-economics/rugby-world-cup-2011.md)
+- [Business and Entrepreneurship in 2011](society-economics/business-entrepreneurship-2011.md)
 - [Christchurch Earthquake (February 22, 2011)](society-economics/christchurch-earthquake-2011.md)
 - [Cricket World Cup 2011 (February 19 – April 2, 2011)](society-economics/cricket-world-cup-2011.md)
 - [Eurozone Sovereign Debt Crisis (2011)](society-economics/eurozone-debt-crisis.md)
@@ -75,5 +77,6 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [Death of Mohamed Bouazizi (January 4, 2011)](people/mohamed-bouazizi.md)
 - [Death of Wangari Maathai (September 26, 2011)](people/wangari-maathai.md)
 - [Dennis Ritchie (October 12, 2011)](people/dennis-ritchie.md)
+- [Literary and Intellectual Figures of 2011](people/literary-intellectuals-2011.md)
 - [Steve Jobs (October 5, 2011)](people/steve-jobs.md)
 <!-- END GENERATED: master-index -->

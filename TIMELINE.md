@@ -10,6 +10,9 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | 2011 (year-long) | Android Mobile Platform Rise | Science & Technology | [link](science-technology/android-mobile-rise.md) |
 | 2011 (year-long) | 2011 in Film | Arts & Culture | [link](arts-culture/2011-in-film.md) |
 | 2011 (year-long) | Music in 2011 | Arts & Culture | [link](arts-culture/music-2011.md) |
+| 2011 (year-long) | Television in 2011 | Arts & Culture | [link](arts-culture/television-2011.md) |
+| 2011 (year-long) | Business and Entrepreneurship in 2011 | Society & Economics | [link](society-economics/business-entrepreneurship-2011.md) |
+| 2011 (year-long) | Literary and Intellectual Figures of 2011 | People | [link](people/literary-intellectuals-2011.md) |
 | Dec 17, 2010 – Jan 14, 2011 | Tunisian Revolution (Jasmine Revolution) | History & Politics | [link](history-politics/tunisian-revolution-2011.md) |
 | Jan 4, 2011 | Death of Mohamed Bouazizi (spark of the Tunisian Revolution and Arab Spring) | People | [link](people/mohamed-bouazizi.md) |
 | Jan 8, 2011 | 2011 Tucson shooting (Rep. Gabrielle Giffords gravely wounded) | History & Politics | [link](history-politics/2011-tucson-shooting.md) |
