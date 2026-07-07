@@ -34,6 +34,8 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Apr 29, 2011 | Royal Wedding of Prince William and Catherine Middleton | History & Politics | [link](history-politics/royal-wedding-2011.md) |
 | May 2, 2011 | Death of Osama bin Laden | History & Politics | [link](history-politics/osama-bin-laden-death.md) |
 | May 10, 2011 | Microsoft announces $8.5 billion acquisition of Skype | Society & Economics | [link](society-economics/skype-microsoft-acquisition-2011.md) |
+| Jun 18, 2011 | Death of Clarence Clemons (E Street Band saxophonist) | People | [link](people/clarence-clemons-death.md) |
+| Jun 20 – Jul 3, 2011 | 2011 Wimbledon Championships (Djokovic and Kvitová win maiden titles) | Society & Economics | [link](society-economics/wimbledon-2011.md) |
 | Jun 28, 2011 | Google+ social network launches | Science & Technology | [link](science-technology/google-plus-launch-2011.md) |
 | Jul 4–10, 2011 | News of the World phone-hacking crisis (Milly Dowler report to newspaper's closure) | History & Politics | [link](history-politics/news-of-the-world-scandal-2011.md) |
 | Jul 9, 2011 | South Sudan independence | History & Politics | [link](history-politics/south-sudan-independence.md) |
@@ -54,6 +56,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Oct 12, 2011 | Death of Dennis Ritchie (creator of C and Unix) | People | [link](people/dennis-ritchie.md) |
 | Oct 14, 2011 | iPhone 4S & Siri introduced | Science & Technology | [link](science-technology/iphone-4s-siri.md) |
 | Oct 31, 2011 | World population reaches seven billion | Society & Economics | [link](society-economics/world-population-seven-billion.md) |
+| Nov 8, 2011 | Phobos-Grunt Mars sample-return mission launches (later lost) | Science & Technology | [link](science-technology/phobos-grunt-mission.md) |
 | Nov 11, 2011 | The Elder Scrolls V: Skyrim released | Arts & Culture | [link](arts-culture/skyrim-2011.md) |
 | Nov 26, 2011 | NASA launches Curiosity rover | Science & Technology | [link](science-technology/nasa-curiosity-rover.md) |
 | Dec 15, 2011 | Death of Christopher Hitchens | People | [link](people/christopher-hitchens.md) |

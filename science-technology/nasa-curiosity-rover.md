@@ -66,6 +66,7 @@ The rover's longevity — remaining operational more than a decade after landing
 - [Space Shuttle Program Ends (July 21, 2011)](space-shuttle-final-mission.md) — The end of crewed spaceflight four months before Curiosity's launch, framing the broader context of NASA's 2011 transition
 - [MESSENGER Enters Orbit Around Mercury (March 18, 2011)](messenger-mercury-orbit.md) — NASA's other major 2011 planetary-exploration milestone, the first spacecraft ever to orbit Mercury
 - [Fukushima Daiichi Nuclear Disaster (March 11, 2011)](fukushima-daiichi-disaster.md) — Another 2011 event at the intersection of complex technology and public scientific attention
+- [Phobos-Grunt Mars Mission (November 8, 2011)](phobos-grunt-mission.md) — Russia's Mars sample-return probe, launched 18 days before Curiosity but stranded in Earth orbit — a contrast in mission fortunes
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

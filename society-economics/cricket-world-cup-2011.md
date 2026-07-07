@@ -68,6 +68,7 @@ For Sri Lanka, the runner-up finish capped a generation of exceptional batting t
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [Eurozone Sovereign Debt Crisis (2011)](eurozone-debt-crisis.md) — The Western economic turmoil against which the tournament underscored a shift of commercial and cultural weight toward Asia
 - [World Population Reaches Seven Billion (October 31, 2011)](world-population-seven-billion.md) — The 2011 demographic milestone whose fastest growth was concentrated in the tournament's South Asian heartland
+- [2011 Wimbledon Championships (June 20 – July 3, 2011)](wimbledon-2011.md) — Another 2011 global sporting championship that marked a generational shift at the top of its sport
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

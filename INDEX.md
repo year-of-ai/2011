@@ -35,6 +35,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [iPhone 4S & Siri Introduction (October 14, 2011)](science-technology/iphone-4s-siri.md)
 - [MESSENGER Enters Orbit Around Mercury (March 18, 2011)](science-technology/messenger-mercury-orbit.md)
 - [NASA Curiosity Rover Launch (November 26, 2011)](science-technology/nasa-curiosity-rover.md)
+- [Phobos-Grunt Mars Mission (November 8, 2011)](science-technology/phobos-grunt-mission.md)
 - [Space Shuttle Program Ends (July 21, 2011)](science-technology/space-shuttle-final-mission.md)
 - [Wikipedia SOPA Blackout (January 18, 2012)](science-technology/wikipedia-sopa-blackout-2011.md)
 
@@ -56,6 +57,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 - [2011 East Africa Drought and Somalia Famine (July 20, 2011)](society-economics/east-africa-drought-2011.md)
 - [2011 England Riots (August 6–11, 2011)](society-economics/2011-england-riots.md)
 - [2011 Rugby World Cup (September 9 – October 23, 2011)](society-economics/rugby-world-cup-2011.md)
+- [2011 Wimbledon Championships (June 20 – July 3, 2011)](society-economics/wimbledon-2011.md)
 - [Business and Entrepreneurship in 2011](society-economics/business-entrepreneurship-2011.md)
 - [Christchurch Earthquake (February 22, 2011)](society-economics/christchurch-earthquake-2011.md)
 - [Cricket World Cup 2011 (February 19 – April 2, 2011)](society-economics/cricket-world-cup-2011.md)
@@ -73,6 +75,7 @@ A map of all content, grouped by taxonomy category. See also the [TIMELINE](TIME
 
 - [Death of Amy Winehouse (July 23, 2011)](people/amy-winehouse.md)
 - [Death of Christopher Hitchens (December 15, 2011)](people/christopher-hitchens.md)
+- [Death of Clarence Clemons (June 18, 2011)](people/clarence-clemons-death.md)
 - [Death of Elizabeth Taylor (March 23, 2011)](people/elizabeth-taylor.md)
 - [Death of Mohamed Bouazizi (January 4, 2011)](people/mohamed-bouazizi.md)
 - [Death of Wangari Maathai (September 26, 2011)](people/wangari-maathai.md)

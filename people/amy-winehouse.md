@@ -65,7 +65,7 @@ Her musical legacy endures as one of the most distinctive British voices of the 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [2011 in Music](../arts-culture/music-2011.md) — The broader musical landscape of 2011, shaped significantly by her death and legacy
 - [Steve Jobs (People, 2011)](steve-jobs.md) — Another transformative figure whose death in 2011 prompted global cultural reflection
-- [2011 Hugo and Nebula Awards](../arts-culture/hugo-awards-2011.md) — A counterpart 2011 cultural moment celebrating artistic achievement across genres
+- [Death of Clarence Clemons (June 18, 2011)](clarence-clemons-death.md) — The E Street Band saxophonist whose death weeks earlier made 2011 an unusually heavy year of musical loss
 - [Death of Elizabeth Taylor (March 23, 2011)](elizabeth-taylor.md) — Another iconic figure whose death in 2011 prompted global reflection on fame and legacy
 <!-- END GENERATED: crossrefs -->
 

@@ -12,6 +12,7 @@ Topics in the **Science & Technology** category of the 2011 knowledge base.
 - [iPhone 4S & Siri Introduction (October 14, 2011)](iphone-4s-siri.md) — Apple's iPhone 4S debuted Siri, the first AI voice assistant on a mass-market phone, in Tim Cook's first keynote as CEO and a day before Steve Jobs's death.
 - [MESSENGER Enters Orbit Around Mercury (March 18, 2011)](messenger-mercury-orbit.md) — NASA's MESSENGER became the first spacecraft to orbit Mercury, going on to confirm water ice in permanently shadowed polar craters and extensive ancient volcanism.
 - [NASA Curiosity Rover Launch (November 26, 2011)](nasa-curiosity-rover.md) — NASA launched the $2.5 billion Mars Science Laboratory rover Curiosity atop an Atlas V, beginning an eight-month journey to assess Gale Crater's past habitability.
+- [Phobos-Grunt Mars Mission (November 8, 2011)](phobos-grunt-mission.md) — Russia's Phobos-Grunt sample-return probe to Mars's moon Phobos was stranded in Earth orbit by a software failure and reentered in January 2012, also dooming China's Yinghuo-1 orbiter.
 - [Space Shuttle Program Ends (July 21, 2011)](space-shuttle-final-mission.md) — Atlantis completed STS-135, the 135th and final flight of NASA's 30-year Space Shuttle program.
 - [Wikipedia SOPA Blackout (January 18, 2012)](wikipedia-sopa-blackout-2011.md) — English Wikipedia and thousands of sites went dark to protest the 2011-introduced SOPA and PIPA bills, a landmark of internet activism that helped kill the legislation within days.
 <!-- END GENERATED: category-index:science-technology -->
