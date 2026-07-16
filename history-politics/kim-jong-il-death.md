@@ -1,6 +1,6 @@
 ---
 title: "Death of Kim Jong Il"
-date: "December 17, 2011"
+date: 2011-12-17
 category: "History & Politics"
 ---
 

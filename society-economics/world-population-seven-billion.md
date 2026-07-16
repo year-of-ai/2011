@@ -1,6 +1,6 @@
 ---
 title: "World Population Reaches Seven Billion"
-date: "October 31, 2011"
+date: 2011-10-31
 category: "Society & Economics"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Tunisian Revolution (Jasmine Revolution)"
-date: "December 17, 2010 – January 14, 2011"
+date: 2011-01-14
 category: "History & Politics"
 ---
 

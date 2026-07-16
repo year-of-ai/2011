@@ -1,6 +1,6 @@
 ---
 title: "Libyan Civil War & NATO Intervention (2011)"
-date: "February 15 – October 23, 2011"
+date: 2011-02-15
 category: "History & Politics"
 ---
 

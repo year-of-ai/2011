@@ -1,6 +1,6 @@
 ---
 title: "Egyptian Revolution of 2011"
-date: "January 25 – February 11, 2011"
+date: 2011-01-25
 category: "History & Politics"
 ---
 

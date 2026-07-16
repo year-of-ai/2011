@@ -1,6 +1,6 @@
 ---
 title: "Kodak Bankruptcy Filing"
-date: "January 19, 2012"
+date: 2012-01-19
 category: "Society & Economics"
 ---
 

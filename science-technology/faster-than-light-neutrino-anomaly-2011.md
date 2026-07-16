@@ -1,6 +1,6 @@
 ---
 title: "Faster-Than-Light Neutrino Anomaly (OPERA)"
-date: "September 23, 2011"
+date: 2011-09-23
 category: "Science & Technology"
 ---
 

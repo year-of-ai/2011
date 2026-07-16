@@ -1,6 +1,6 @@
 ---
 title: "MESSENGER Enters Orbit Around Mercury"
-date: "March 18, 2011"
+date: 2011-03-18
 category: "Science & Technology"
 ---
 

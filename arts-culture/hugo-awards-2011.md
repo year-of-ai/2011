@@ -1,6 +1,6 @@
 ---
 title: "2011 Hugo Awards in Science Fiction"
-date: "August 17-21, 2011"
+date: 2011-08-20
 category: "Arts & Culture"
 ---
 

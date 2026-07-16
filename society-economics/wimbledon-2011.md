@@ -1,6 +1,6 @@
 ---
 title: "2011 Wimbledon Championships"
-date: "June 20 – July 3, 2011"
+date: 2011-06-20
 category: "Society & Economics"
 ---
 

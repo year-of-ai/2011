@@ -1,6 +1,6 @@
 ---
 title: "Phobos-Grunt Mars Mission"
-date: "November 8, 2011"
+date: 2011-11-08
 category: "Science & Technology"
 ---
 

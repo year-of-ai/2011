@@ -1,6 +1,6 @@
 ---
 title: "Fukushima Daiichi Nuclear Disaster"
-date: "March 11, 2011"
+date: 2011-03-11
 category: "Science & Technology"
 ---
 

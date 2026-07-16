@@ -1,6 +1,6 @@
 ---
 title: "Death of Mohamed Bouazizi"
-date: "January 4, 2011"
+date: 2011-01-04
 category: "People"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "2011 England Riots"
-date: "August 6–11, 2011"
+date: 2011-08-06
 category: "Society & Economics"
 ---
 

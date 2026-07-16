@@ -1,6 +1,6 @@
 ---
 title: "NASA Curiosity Rover Launch"
-date: "November 26, 2011"
+date: 2011-11-26
 category: "Science & Technology"
 ---
 

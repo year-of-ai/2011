@@ -1,6 +1,6 @@
 ---
 title: "Skype Acquisition by Microsoft"
-date: "May 10, 2011"
+date: 2011-05-10
 category: "Society & Economics"
 ---
 

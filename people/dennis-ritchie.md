@@ -1,6 +1,6 @@
 ---
 title: "Dennis Ritchie"
-date: "October 12, 2011"
+date: 2011-10-12
 category: "People"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "United States Credit-Rating Downgrade (August 5, 2011)"
-date: "2011-08-05"
+date: 2011-08-05
 category: "Society & Economics"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Google+ Launch"
-date: "June 28, 2011"
+date: 2011-06-28
 category: "Science & Technology"
 ---
 

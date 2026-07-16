@@ -1,6 +1,6 @@
 ---
 title: "The Elder Scrolls V: Skyrim"
-date: "November 11, 2011"
+date: 2011-11-11
 category: "Arts & Culture"
 ---
 

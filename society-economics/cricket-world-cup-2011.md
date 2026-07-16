@@ -1,6 +1,6 @@
 ---
 title: "Cricket World Cup 2011"
-date: "February 19 – April 2, 2011"
+date: 2011-02-19
 category: "Society & Economics"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "83rd Academy Awards"
-date: "February 27, 2011"
+date: 2011-02-27
 category: "Arts & Culture"
 ---
 

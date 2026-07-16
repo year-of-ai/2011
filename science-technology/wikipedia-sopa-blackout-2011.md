@@ -1,6 +1,6 @@
 ---
 title: "Wikipedia SOPA Blackout"
-date: "January 18, 2012"
+date: 2012-01-18
 category: "Science & Technology"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Death of Amy Winehouse"
-date: "July 23, 2011"
+date: 2011-07-23
 category: "People"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Thailand 2011 Monsoon Floods"
-date: "October 2011"
+date: 2011-08-01
 category: "Society & Economics"
 ---
 
@@ -93,6 +93,8 @@ The floods occurred within a sequence of major 2011 natural disasters — the [T
 - [World Bank — Thailand Rapid Assessment for Resilient Recovery and Reconstruction Planning (2012)](https://www.worldbank.org/en/news/feature/2012/06/08/thailand-flood-2011-rapid-assessment)
 - [UNISDR — 2011 Global Assessment Report on Disaster Risk Reduction](https://www.undrr.org/publication/global-assessment-report-disaster-risk-reduction-2011)
 - [USGS — 2011 Thailand Floods: Analysis and Impact](https://pubs.usgs.gov/of/2012/1061/)
+
+## Related
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [Tōhoku Earthquake and Tsunami (March 11, 2011)](tohoku-earthquake-tsunami-2011.md) — The March 2011 disaster that, months earlier, similarly disrupted Japanese manufacturing and exposed the fragility of concentrated global supply chains

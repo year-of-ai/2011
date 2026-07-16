@@ -1,6 +1,6 @@
 ---
 title: "Royal Wedding of Prince William and Catherine Middleton"
-date: "April 29, 2011"
+date: 2011-04-29
 category: "History & Politics"
 ---
 

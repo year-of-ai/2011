@@ -1,6 +1,6 @@
 ---
 title: "Game of Thrones Series Premiere (April 17, 2011)"
-date: "2011-04-17"
+date: 2011-04-17
 category: "Arts & Culture"
 ---
 

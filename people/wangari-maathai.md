@@ -1,6 +1,6 @@
 ---
 title: "Death of Wangari Maathai"
-date: "September 26, 2011"
+date: 2011-09-26
 category: "People"
 ---
 
@@ -71,6 +71,8 @@ Her influence endured institutionally: the Green Belt Movement continued its wor
 - [Nobel Peace Prize 2004 — Official Citation](https://www.nobelprize.org/prizes/peace/2004/maathai/facts/)
 - [Green Belt Movement — Official Site](https://www.greenbeltmovement.org/)
 - [*Unbowed: A Memoir* — Wangari Maathai (Knopf, 2006)](https://en.wikipedia.org/wiki/Unbowed:_A_Memoir)
+
+## Related
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [2011 East Africa Drought and Somalia Famine (July 20, 2011)](../society-economics/east-africa-drought-2011.md) — The food and water crisis that dramatized the environmental degradation Maathai's work sought to reverse

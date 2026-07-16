@@ -1,6 +1,6 @@
 ---
 title: "iPhone 4S & Siri Introduction"
-date: "October 14, 2011"
+date: 2011-10-14
 category: "Science & Technology"
 ---
 

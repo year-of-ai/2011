@@ -1,6 +1,6 @@
 ---
 title: "Death of Christopher Hitchens"
-date: "December 15, 2011"
+date: 2011-12-15
 category: "People"
 ---
 

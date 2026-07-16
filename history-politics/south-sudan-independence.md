@@ -1,6 +1,6 @@
 ---
 title: "South Sudan independence"
-date: "2011-07-09"
+date: 2011-07-09
 category: "History & Politics"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Business and Entrepreneurship in 2011"
-date: "2011"
+date: 2011-12-31
 category: "Society & Economics"
 ---
 

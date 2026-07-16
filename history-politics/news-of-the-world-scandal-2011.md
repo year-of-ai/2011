@@ -1,6 +1,6 @@
 ---
 title: "News of the World Phone Hacking Scandal"
-date: "2011"
+date: 2011-07-10
 category: "History & Politics"
 ---
 

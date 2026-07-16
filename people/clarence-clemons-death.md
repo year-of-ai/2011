@@ -1,6 +1,6 @@
 ---
 title: "Death of Clarence Clemons"
-date: "June 18, 2011"
+date: 2011-06-18
 category: "People"
 ---
 
