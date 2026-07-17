@@ -1,3 +1,9 @@
+---
+layout: default
+title: Timeline of 2011
+permalink: "/TIMELINE/"
+---
+
 # Timeline — 2011
 
 A chronological index of notable events of 2011 drawn from the [knowledge table](README.md#notable-events-of-2011) and dedicated topic files. Year-long developments are listed first, followed by dated events in order.
@@ -5,64 +11,64 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 <!-- BEGIN GENERATED: timeline — maintained by build-structure; do not edit by hand -->
 | Date | Item | Category | Link |
 |---|---|---|---|
-| 2011 (year-long) | Arab Spring | History & Politics | [link](history-politics/arab-spring.md) |
-| 2011 (year-long) | Eurozone Sovereign Debt Crisis | Society & Economics | [link](society-economics/eurozone-debt-crisis.md) |
-| 2011 (year-long) | Android Mobile Platform Rise | Science & Technology | [link](science-technology/android-mobile-rise.md) |
-| 2011 (year-long) | 2011 in Film | Arts & Culture | [link](arts-culture/2011-in-film.md) |
-| 2011 (year-long) | Music in 2011 | Arts & Culture | [link](arts-culture/music-2011.md) |
-| 2011 (year-long) | Television in 2011 | Arts & Culture | [link](arts-culture/television-2011.md) |
-| 2011 (year-long) | Business and Entrepreneurship in 2011 | Society & Economics | [link](society-economics/business-entrepreneurship-2011.md) |
-| 2011 (year-long) | Literary and Intellectual Figures of 2011 | People | [link](people/literary-intellectuals-2011.md) |
-| Dec 17, 2010 – Jan 14, 2011 | Tunisian Revolution (Jasmine Revolution) | History & Politics | [link](history-politics/tunisian-revolution-2011.md) |
-| Jan 4, 2011 | Death of Mohamed Bouazizi (spark of the Tunisian Revolution and Arab Spring) | People | [link](people/mohamed-bouazizi.md) |
-| Jan 8, 2011 | 2011 Tucson shooting (Rep. Gabrielle Giffords gravely wounded) | History & Politics | [link](history-politics/2011-tucson-shooting.md) |
-| Jan 25 – Feb 11, 2011 | Egyptian Revolution (Mubarak resigns) | History & Politics | [link](history-politics/egyptian-revolution-2011.md) |
-| Jan 27 – Nov 23, 2011 | Yemeni Revolution (Saleh signs GCC transition deal) | History & Politics | [link](history-politics/yemeni-revolution-2011.md) |
-| Feb 14–16, 2011 | IBM Watson wins Jeopardy! exhibition match | Science & Technology | [link](science-technology/watson-jeopardy-2011.md) |
-| Feb 15 – Oct 23, 2011 | Libyan Civil War & NATO intervention | History & Politics | [link](history-politics/libyan-civil-war-2011.md) |
-| Feb 19 – Apr 2, 2011 | Cricket World Cup 2011 | Society & Economics | [link](society-economics/cricket-world-cup-2011.md) |
-| Feb 22, 2011 | Christchurch earthquake | Society & Economics | [link](society-economics/christchurch-earthquake-2011.md) |
-| Feb 27, 2011 | 83rd Academy Awards (The King's Speech wins Best Picture) | Arts & Culture | [link](arts-culture/academy-awards-2011.md) |
-| Mar 1, 2011 | WikiLeaks superseding charges against Bradley Manning | History & Politics | [link](history-politics/wikileaks-bradley-manning.md) |
-| Mar 11, 2011 | Tōhoku earthquake and tsunami | Society & Economics | [link](society-economics/tohoku-earthquake-tsunami-2011.md) |
-| Mar 11, 2011 | Fukushima Daiichi disaster | Science & Technology | [link](science-technology/fukushima-daiichi-disaster.md) |
-| Mar 15, 2011 | Onset of the Syrian Civil War (Daraa protests) | History & Politics | [link](history-politics/syrian-civil-war-2011.md) |
-| Mar 18, 2011 | MESSENGER becomes first spacecraft to orbit Mercury | Science & Technology | [link](science-technology/messenger-mercury-orbit.md) |
-| Mar 23, 2011 | Death of Elizabeth Taylor | People | [link](people/elizabeth-taylor.md) |
-| Apr 17, 2011 | Game of Thrones series premiere on HBO | Arts & Culture | [link](arts-culture/game-of-thrones-premiere-2011.md) |
-| Apr 18, 2011 | 2011 Pulitzer Prizes announced | Arts & Culture | [link](arts-culture/pulitzer-prizes-2011.md) |
-| Apr 29, 2011 | Royal Wedding of Prince William and Catherine Middleton | History & Politics | [link](history-politics/royal-wedding-2011.md) |
-| May 2, 2011 | Death of Osama bin Laden | History & Politics | [link](history-politics/osama-bin-laden-death.md) |
-| May 10, 2011 | Microsoft announces $8.5 billion acquisition of Skype | Society & Economics | [link](society-economics/skype-microsoft-acquisition-2011.md) |
-| Jun 18, 2011 | Death of Clarence Clemons (E Street Band saxophonist) | People | [link](people/clarence-clemons-death.md) |
-| Jun 20 – Jul 3, 2011 | 2011 Wimbledon Championships (Djokovic and Kvitová win maiden titles) | Society & Economics | [link](society-economics/wimbledon-2011.md) |
-| Jun 28, 2011 | Google+ social network launches | Science & Technology | [link](science-technology/google-plus-launch-2011.md) |
-| Jul 4–10, 2011 | News of the World phone-hacking crisis (Milly Dowler report to newspaper's closure) | History & Politics | [link](history-politics/news-of-the-world-scandal-2011.md) |
-| Jul 9, 2011 | South Sudan independence | History & Politics | [link](history-politics/south-sudan-independence.md) |
-| Jul 20, 2011 | UN declares famine in southern Somalia (2011 East Africa drought) | Society & Economics | [link](society-economics/east-africa-drought-2011.md) |
-| Jul 21, 2011 | Space Shuttle program ends (STS-135) | Science & Technology | [link](science-technology/space-shuttle-final-mission.md) |
-| Jul 22, 2011 | 2011 Norway attacks (Oslo bombing and Utøya massacre) | History & Politics | [link](history-politics/norway-attacks-2011.md) |
-| Jul 23, 2011 | Death of Amy Winehouse | People | [link](people/amy-winehouse.md) |
-| Jul–Dec 2011 (peak Oct–Nov) | Thailand monsoon floods (Chao Phraya basin, Bangkok) | Society & Economics | [link](society-economics/thailand-2011-floods.md) |
-| Aug 5, 2011 | S&P downgrades U.S. credit rating to AA+ | Society & Economics | [link](society-economics/us-credit-rating-downgrade-2011.md) |
-| Aug 6–11, 2011 | 2011 England riots | Society & Economics | [link](society-economics/2011-england-riots.md) |
-| Aug 17, 2011 | 2011 Hugo Awards (Renovation Worldcon, Reno) | Arts & Culture | [link](arts-culture/hugo-awards-2011.md) |
-| Sep 9 – Oct 23, 2011 | 2011 Rugby World Cup (New Zealand wins) | Society & Economics | [link](society-economics/rugby-world-cup-2011.md) |
-| Sep 17, 2011 | Occupy Wall Street begins | Society & Economics | [link](society-economics/occupy-wall-street.md) |
-| Sep 23, 2011 | OPERA reports apparent faster-than-light neutrinos | Science & Technology | [link](science-technology/faster-than-light-neutrino-anomaly-2011.md) |
-| Sep 26, 2011 | Death of Wangari Maathai | People | [link](people/wangari-maathai.md) |
-| Oct 3–10, 2011 | 2011 Nobel Prizes announced | Science & Technology | [link](science-technology/nobel-prizes-2011.md) |
-| Oct 5, 2011 | Steve Jobs death | People | [link](people/steve-jobs.md) |
-| Oct 12, 2011 | Death of Dennis Ritchie (creator of C and Unix) | People | [link](people/dennis-ritchie.md) |
-| Oct 14, 2011 | iPhone 4S & Siri introduced | Science & Technology | [link](science-technology/iphone-4s-siri.md) |
-| Oct 31, 2011 | World population reaches seven billion | Society & Economics | [link](society-economics/world-population-seven-billion.md) |
-| Nov 8, 2011 | Phobos-Grunt Mars sample-return mission launches (later lost) | Science & Technology | [link](science-technology/phobos-grunt-mission.md) |
-| Nov 11, 2011 | The Elder Scrolls V: Skyrim released | Arts & Culture | [link](arts-culture/skyrim-2011.md) |
-| Nov 26, 2011 | NASA launches Curiosity rover | Science & Technology | [link](science-technology/nasa-curiosity-rover.md) |
-| Dec 15, 2011 | Death of Christopher Hitchens | People | [link](people/christopher-hitchens.md) |
-| Dec 17, 2011 | Death of Kim Jong Il | History & Politics | [link](history-politics/kim-jong-il-death.md) |
-| Dec 18, 2011 | Death of Václav Havel | History & Politics | [link](history-politics/vaclav-havel-death.md) |
-| Dec 18, 2011 | End of the Iraq War — last U.S. troops withdraw | History & Politics | [link](history-politics/iraq-war-end-2011.md) |
-| Jan 18, 2012 | Wikipedia SOPA/PIPA blackout (protest of 2011-introduced bills) | Science & Technology | [link](science-technology/wikipedia-sopa-blackout-2011.md) |
-| Jan 19, 2012 | Eastman Kodak files for Chapter 11 bankruptcy | Society & Economics | [link](society-economics/kodak-bankruptcy-2011.md) |
+| 2011 (year-long) | Arab Spring | History & Politics | [link]({{ '/news/history-politics/arab-spring/' | relative_url }}) |
+| 2011 (year-long) | Eurozone Sovereign Debt Crisis | Society & Economics | [link]({{ '/news/society-economics/eurozone-debt-crisis/' | relative_url }}) |
+| 2011 (year-long) | Android Mobile Platform Rise | Science & Technology | [link]({{ '/news/science-technology/android-mobile-rise/' | relative_url }}) |
+| 2011 (year-long) | 2011 in Film | Arts & Culture | [link]({{ '/news/arts-culture/2011-in-film/' | relative_url }}) |
+| 2011 (year-long) | Music in 2011 | Arts & Culture | [link]({{ '/news/arts-culture/music-2011/' | relative_url }}) |
+| 2011 (year-long) | Television in 2011 | Arts & Culture | [link]({{ '/news/arts-culture/television-2011/' | relative_url }}) |
+| 2011 (year-long) | Business and Entrepreneurship in 2011 | Society & Economics | [link]({{ '/news/society-economics/business-entrepreneurship-2011/' | relative_url }}) |
+| 2011 (year-long) | Literary and Intellectual Figures of 2011 | People | [link]({{ '/news/people/literary-intellectuals-2011/' | relative_url }}) |
+| Dec 17, 2010 – Jan 14, 2011 | Tunisian Revolution (Jasmine Revolution) | History & Politics | [link]({{ '/news/history-politics/tunisian-revolution-2011/' | relative_url }}) |
+| Jan 4, 2011 | Death of Mohamed Bouazizi (spark of the Tunisian Revolution and Arab Spring) | People | [link]({{ '/news/people/mohamed-bouazizi/' | relative_url }}) |
+| Jan 8, 2011 | 2011 Tucson shooting (Rep. Gabrielle Giffords gravely wounded) | History & Politics | [link]({{ '/news/history-politics/2011-tucson-shooting/' | relative_url }}) |
+| Jan 25 – Feb 11, 2011 | Egyptian Revolution (Mubarak resigns) | History & Politics | [link]({{ '/news/history-politics/egyptian-revolution-2011/' | relative_url }}) |
+| Jan 27 – Nov 23, 2011 | Yemeni Revolution (Saleh signs GCC transition deal) | History & Politics | [link]({{ '/news/history-politics/yemeni-revolution-2011/' | relative_url }}) |
+| Feb 14–16, 2011 | IBM Watson wins Jeopardy! exhibition match | Science & Technology | [link]({{ '/news/science-technology/watson-jeopardy-2011/' | relative_url }}) |
+| Feb 15 – Oct 23, 2011 | Libyan Civil War & NATO intervention | History & Politics | [link]({{ '/news/history-politics/libyan-civil-war-2011/' | relative_url }}) |
+| Feb 19 – Apr 2, 2011 | Cricket World Cup 2011 | Society & Economics | [link]({{ '/news/society-economics/cricket-world-cup-2011/' | relative_url }}) |
+| Feb 22, 2011 | Christchurch earthquake | Society & Economics | [link]({{ '/news/society-economics/christchurch-earthquake-2011/' | relative_url }}) |
+| Feb 27, 2011 | 83rd Academy Awards (The King's Speech wins Best Picture) | Arts & Culture | [link]({{ '/news/arts-culture/academy-awards-2011/' | relative_url }}) |
+| Mar 1, 2011 | WikiLeaks superseding charges against Bradley Manning | History & Politics | [link]({{ '/news/history-politics/wikileaks-bradley-manning/' | relative_url }}) |
+| Mar 11, 2011 | Tōhoku earthquake and tsunami | Society & Economics | [link]({{ '/news/society-economics/tohoku-earthquake-tsunami-2011/' | relative_url }}) |
+| Mar 11, 2011 | Fukushima Daiichi disaster | Science & Technology | [link]({{ '/news/science-technology/fukushima-daiichi-disaster/' | relative_url }}) |
+| Mar 15, 2011 | Onset of the Syrian Civil War (Daraa protests) | History & Politics | [link]({{ '/news/history-politics/syrian-civil-war-2011/' | relative_url }}) |
+| Mar 18, 2011 | MESSENGER becomes first spacecraft to orbit Mercury | Science & Technology | [link]({{ '/news/science-technology/messenger-mercury-orbit/' | relative_url }}) |
+| Mar 23, 2011 | Death of Elizabeth Taylor | People | [link]({{ '/news/people/elizabeth-taylor/' | relative_url }}) |
+| Apr 17, 2011 | Game of Thrones series premiere on HBO | Arts & Culture | [link]({{ '/news/arts-culture/game-of-thrones-premiere-2011/' | relative_url }}) |
+| Apr 18, 2011 | 2011 Pulitzer Prizes announced | Arts & Culture | [link]({{ '/news/arts-culture/pulitzer-prizes-2011/' | relative_url }}) |
+| Apr 29, 2011 | Royal Wedding of Prince William and Catherine Middleton | History & Politics | [link]({{ '/news/history-politics/royal-wedding-2011/' | relative_url }}) |
+| May 2, 2011 | Death of Osama bin Laden | History & Politics | [link]({{ '/news/history-politics/osama-bin-laden-death/' | relative_url }}) |
+| May 10, 2011 | Microsoft announces $8.5 billion acquisition of Skype | Society & Economics | [link]({{ '/news/society-economics/skype-microsoft-acquisition-2011/' | relative_url }}) |
+| Jun 18, 2011 | Death of Clarence Clemons (E Street Band saxophonist) | People | [link]({{ '/news/people/clarence-clemons-death/' | relative_url }}) |
+| Jun 20 – Jul 3, 2011 | 2011 Wimbledon Championships (Djokovic and Kvitová win maiden titles) | Society & Economics | [link]({{ '/news/society-economics/wimbledon-2011/' | relative_url }}) |
+| Jun 28, 2011 | Google+ social network launches | Science & Technology | [link]({{ '/news/science-technology/google-plus-launch-2011/' | relative_url }}) |
+| Jul 4–10, 2011 | News of the World phone-hacking crisis (Milly Dowler report to newspaper's closure) | History & Politics | [link]({{ '/news/history-politics/news-of-the-world-scandal-2011/' | relative_url }}) |
+| Jul 9, 2011 | South Sudan independence | History & Politics | [link]({{ '/news/history-politics/south-sudan-independence/' | relative_url }}) |
+| Jul 20, 2011 | UN declares famine in southern Somalia (2011 East Africa drought) | Society & Economics | [link]({{ '/news/society-economics/east-africa-drought-2011/' | relative_url }}) |
+| Jul 21, 2011 | Space Shuttle program ends (STS-135) | Science & Technology | [link]({{ '/news/science-technology/space-shuttle-final-mission/' | relative_url }}) |
+| Jul 22, 2011 | 2011 Norway attacks (Oslo bombing and Utøya massacre) | History & Politics | [link]({{ '/news/history-politics/norway-attacks-2011/' | relative_url }}) |
+| Jul 23, 2011 | Death of Amy Winehouse | People | [link]({{ '/news/people/amy-winehouse/' | relative_url }}) |
+| Jul–Dec 2011 (peak Oct–Nov) | Thailand monsoon floods (Chao Phraya basin, Bangkok) | Society & Economics | [link]({{ '/news/society-economics/thailand-2011-floods/' | relative_url }}) |
+| Aug 5, 2011 | S&P downgrades U.S. credit rating to AA+ | Society & Economics | [link]({{ '/news/society-economics/us-credit-rating-downgrade-2011/' | relative_url }}) |
+| Aug 6–11, 2011 | 2011 England riots | Society & Economics | [link]({{ '/news/society-economics/2011-england-riots/' | relative_url }}) |
+| Aug 17, 2011 | 2011 Hugo Awards (Renovation Worldcon, Reno) | Arts & Culture | [link]({{ '/news/arts-culture/hugo-awards-2011/' | relative_url }}) |
+| Sep 9 – Oct 23, 2011 | 2011 Rugby World Cup (New Zealand wins) | Society & Economics | [link]({{ '/news/society-economics/rugby-world-cup-2011/' | relative_url }}) |
+| Sep 17, 2011 | Occupy Wall Street begins | Society & Economics | [link]({{ '/news/society-economics/occupy-wall-street/' | relative_url }}) |
+| Sep 23, 2011 | OPERA reports apparent faster-than-light neutrinos | Science & Technology | [link]({{ '/news/science-technology/faster-than-light-neutrino-anomaly-2011/' | relative_url }}) |
+| Sep 26, 2011 | Death of Wangari Maathai | People | [link]({{ '/news/people/wangari-maathai/' | relative_url }}) |
+| Oct 3–10, 2011 | 2011 Nobel Prizes announced | Science & Technology | [link]({{ '/news/science-technology/nobel-prizes-2011/' | relative_url }}) |
+| Oct 5, 2011 | Steve Jobs death | People | [link]({{ '/news/people/steve-jobs/' | relative_url }}) |
+| Oct 12, 2011 | Death of Dennis Ritchie (creator of C and Unix) | People | [link]({{ '/news/people/dennis-ritchie/' | relative_url }}) |
+| Oct 14, 2011 | iPhone 4S & Siri introduced | Science & Technology | [link]({{ '/news/science-technology/iphone-4s-siri/' | relative_url }}) |
+| Oct 31, 2011 | World population reaches seven billion | Society & Economics | [link]({{ '/news/society-economics/world-population-seven-billion/' | relative_url }}) |
+| Nov 8, 2011 | Phobos-Grunt Mars sample-return mission launches (later lost) | Science & Technology | [link]({{ '/news/science-technology/phobos-grunt-mission/' | relative_url }}) |
+| Nov 11, 2011 | The Elder Scrolls V: Skyrim released | Arts & Culture | [link]({{ '/news/arts-culture/skyrim-2011/' | relative_url }}) |
+| Nov 26, 2011 | NASA launches Curiosity rover | Science & Technology | [link]({{ '/news/science-technology/nasa-curiosity-rover/' | relative_url }}) |
+| Dec 15, 2011 | Death of Christopher Hitchens | People | [link]({{ '/news/people/christopher-hitchens/' | relative_url }}) |
+| Dec 17, 2011 | Death of Kim Jong Il | History & Politics | [link]({{ '/news/history-politics/kim-jong-il-death/' | relative_url }}) |
+| Dec 18, 2011 | Death of Václav Havel | History & Politics | [link]({{ '/news/history-politics/vaclav-havel-death/' | relative_url }}) |
+| Dec 18, 2011 | End of the Iraq War — last U.S. troops withdraw | History & Politics | [link]({{ '/news/history-politics/iraq-war-end-2011/' | relative_url }}) |
+| Jan 18, 2012 | Wikipedia SOPA/PIPA blackout (protest of 2011-introduced bills) | Science & Technology | [link]({{ '/news/science-technology/wikipedia-sopa-blackout-2011/' | relative_url }}) |
+| Jan 19, 2012 | Eastman Kodak files for Chapter 11 bankruptcy | Society & Economics | [link]({{ '/news/society-economics/kodak-bankruptcy-2011/' | relative_url }}) |
 <!-- END GENERATED: timeline -->
