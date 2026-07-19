@@ -40,6 +40,8 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Apr 29, 2011 | Royal Wedding of Prince William and Catherine Middleton | History & Politics | [link]({{ '/news/history-politics/royal-wedding-2011/' | relative_url }}) |
 | May 2, 2011 | Death of Osama bin Laden | History & Politics | [link]({{ '/news/history-politics/osama-bin-laden-death/' | relative_url }}) |
 | May 10, 2011 | Microsoft announces $8.5 billion acquisition of Skype | Society & Economics | [link]({{ '/news/society-economics/skype-microsoft-acquisition-2011/' | relative_url }}) |
+| May 28, 2011 | 2011 UEFA Champions League Final (Barcelona beats Manchester United 3–1) | Society & Economics | [link]({{ '/news/society-economics/uefa-champions-league-final-2011/' | relative_url }}) |
+| Jun 12, 2011 | 2011 NBA Finals (Dallas Mavericks beat Miami Heat 4–2) | Society & Economics | [link]({{ '/news/society-economics/nba-finals-2011-mavericks/' | relative_url }}) |
 | Jun 18, 2011 | Death of Clarence Clemons (E Street Band saxophonist) | People | [link]({{ '/news/people/clarence-clemons-death/' | relative_url }}) |
 | Jun 20 – Jul 3, 2011 | 2011 Wimbledon Championships (Djokovic and Kvitová win maiden titles) | Society & Economics | [link]({{ '/news/society-economics/wimbledon-2011/' | relative_url }}) |
 | Jun 28, 2011 | Google+ social network launches | Science & Technology | [link]({{ '/news/science-technology/google-plus-launch-2011/' | relative_url }}) |
