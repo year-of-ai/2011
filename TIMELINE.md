@@ -24,6 +24,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Jan 8, 2011 | 2011 Tucson shooting (Rep. Gabrielle Giffords gravely wounded) | History & Politics | [link]({{ '/news/history-politics/2011-tucson-shooting/' | relative_url }}) |
 | Jan 25 – Feb 11, 2011 | Egyptian Revolution (Mubarak resigns) | History & Politics | [link]({{ '/news/history-politics/egyptian-revolution-2011/' | relative_url }}) |
 | Jan 27 – Nov 23, 2011 | Yemeni Revolution (Saleh signs GCC transition deal) | History & Politics | [link]({{ '/news/history-politics/yemeni-revolution-2011/' | relative_url }}) |
+| Jan 30, 2011 | The Social Network score wins the Grammy; Reznor & Ross go on to take the Oscar | Arts & Culture | [link]({{ '/news/arts-culture/social-network-score/' | relative_url }}) |
 | Feb 14–16, 2011 | IBM Watson wins Jeopardy! exhibition match | Science & Technology | [link]({{ '/news/science-technology/watson-jeopardy-2011/' | relative_url }}) |
 | Feb 15 – Oct 23, 2011 | Libyan Civil War & NATO intervention | History & Politics | [link]({{ '/news/history-politics/libyan-civil-war-2011/' | relative_url }}) |
 | Feb 19 – Apr 2, 2011 | Cricket World Cup 2011 | Society & Economics | [link]({{ '/news/society-economics/cricket-world-cup-2011/' | relative_url }}) |
@@ -46,6 +47,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Jun 20 – Jul 3, 2011 | 2011 Wimbledon Championships (Djokovic and Kvitová win maiden titles) | Society & Economics | [link]({{ '/news/society-economics/wimbledon-2011/' | relative_url }}) |
 | Jun 28, 2011 | Google+ social network launches | Science & Technology | [link]({{ '/news/science-technology/google-plus-launch-2011/' | relative_url }}) |
 | Jul 4–10, 2011 | News of the World phone-hacking crisis (Milly Dowler report to newspaper's closure) | History & Politics | [link]({{ '/news/history-politics/news-of-the-world-scandal-2011/' | relative_url }}) |
+| Jul 5, 2011 | Casey Anthony acquitted of murder in Caylee Anthony's death | History & Politics | [link]({{ '/news/history-politics/casey-anthony-trial/' | relative_url }}) |
 | Jul 9, 2011 | South Sudan independence | History & Politics | [link]({{ '/news/history-politics/south-sudan-independence/' | relative_url }}) |
 | Jul 20, 2011 | UN declares famine in southern Somalia (2011 East Africa drought) | Society & Economics | [link]({{ '/news/society-economics/east-africa-drought-2011/' | relative_url }}) |
 | Jul 21, 2011 | Space Shuttle program ends (STS-135) | Science & Technology | [link]({{ '/news/science-technology/space-shuttle-final-mission/' | relative_url }}) |
@@ -66,6 +68,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Oct 31, 2011 | World population reaches seven billion | Society & Economics | [link]({{ '/news/society-economics/world-population-seven-billion/' | relative_url }}) |
 | Nov 8, 2011 | Phobos-Grunt Mars sample-return mission launches (later lost) | Science & Technology | [link]({{ '/news/science-technology/phobos-grunt-mission/' | relative_url }}) |
 | Nov 11, 2011 | The Elder Scrolls V: Skyrim released | Arts & Culture | [link]({{ '/news/arts-culture/skyrim-2011/' | relative_url }}) |
+| Nov 23, 2011 | The Muppets revives Jim Henson's franchise (later wins Best Original Song) | Arts & Culture | [link]({{ '/news/arts-culture/muppets-2011/' | relative_url }}) |
 | Nov 26, 2011 | NASA launches Curiosity rover | Science & Technology | [link]({{ '/news/science-technology/nasa-curiosity-rover/' | relative_url }}) |
 | Dec 15, 2011 | Death of Christopher Hitchens | People | [link]({{ '/news/people/christopher-hitchens/' | relative_url }}) |
 | Dec 17, 2011 | Death of Kim Jong Il | History & Politics | [link]({{ '/news/history-politics/kim-jong-il-death/' | relative_url }}) |
