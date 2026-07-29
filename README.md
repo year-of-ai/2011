@@ -2,6 +2,7 @@
 title: The Year 2011 — Knowledge Index
 permalink: "/knowledge-index/"
 description: The full 2011 knowledge table — every notable event, linked to its article.
+preview: /images/previews/the-year-2011-knowledge-index.svg
 ---
 
 # The Year 2011 — A Knowledge Base
@@ -96,3 +97,6 @@ This knowledge base organizes content across five taxonomy categories:
 | [Television in 2011]({{ '/news/arts-culture/television-2011/' | relative_url }}) | Prestige cable drama eclipsed broadcast as *Game of Thrones* debuted and *Breaking Bad* peaked, while Netflix's Qwikster debacle marked the medium's streaming inflection point. |
 | [Literary and Intellectual Figures of 2011]({{ '/news/people/literary-intellectuals-2011/' | relative_url }}) | The near-simultaneous December deaths of Christopher Hitchens and Václav Havel closed a chapter in public intellectual life, amid award-winning formal experimentation and publishing's digital disruption. |
 | [Business and Entrepreneurship in 2011]({{ '/news/society-economics/business-entrepreneurship-2011/' | relative_url }}) | Steve Jobs's death and Apple's ascent to the world's most valuable company capped a year that consolidated the dominance of a handful of technology platforms amid macroeconomic fragility. |
+| [The Book of Mormon Opens on Broadway (Mar 24, 2011)]({{ '/news/arts-culture/book-of-mormon-musical/' | relative_url }}) | Trey Parker, Matt Stone, and Robert Lopez's satirical musical opened at the Eugene O'Neill Theatre and won nine Tony Awards, including Best Musical. |
+| [Death of R. Sargent Shriver (Jan 18, 2011)]({{ '/news/people/sargent-shriver/' | relative_url }}) | The founding Peace Corps director and War on Poverty architect died at 95, having built enduring institutions like Head Start and Job Corps. |
+| [Death of Joe Frazier (Nov 7, 2011)]({{ '/news/people/joe-frazier/' | relative_url }}) | "Smokin' Joe" Frazier, the 1964 Olympic and undisputed heavyweight champion who first defeated Muhammad Ali, died at 67 of liver cancer. |
