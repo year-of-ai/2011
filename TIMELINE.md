@@ -58,12 +58,14 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Jul 23, 2011 | Death of Amy Winehouse | People | [link]({{ '/news/people/amy-winehouse/' | relative_url }}) |
 | Jul–Dec 2011 (peak Oct–Nov) | Thailand monsoon floods (Chao Phraya basin, Bangkok) | Society & Economics | [link]({{ '/news/society-economics/thailand-2011-floods/' | relative_url }}) |
 | Aug 5, 2011 | S&P downgrades U.S. credit rating to AA+ | Society & Economics | [link]({{ '/news/society-economics/us-credit-rating-downgrade-2011/' | relative_url }}) |
+| Aug 5, 2011 | Launch of NASA's Juno spacecraft to Jupiter | Science & Technology | [link]({{ '/news/science-technology/juno-spacecraft-launch/' | relative_url }}) |
 | Aug 6–11, 2011 | 2011 England riots | Society & Economics | [link]({{ '/news/society-economics/2011-england-riots/' | relative_url }}) |
 | Aug 17, 2011 | 2011 Hugo Awards (Renovation Worldcon, Reno) | Arts & Culture | [link]({{ '/news/arts-culture/hugo-awards-2011/' | relative_url }}) |
 | Sep 9 – Oct 23, 2011 | 2011 Rugby World Cup (New Zealand wins) | Society & Economics | [link]({{ '/news/society-economics/rugby-world-cup-2011/' | relative_url }}) |
 | Sep 17, 2011 | Occupy Wall Street begins | Society & Economics | [link]({{ '/news/society-economics/occupy-wall-street/' | relative_url }}) |
 | Sep 23, 2011 | OPERA reports apparent faster-than-light neutrinos | Science & Technology | [link]({{ '/news/science-technology/faster-than-light-neutrino-anomaly-2011/' | relative_url }}) |
 | Sep 26, 2011 | Death of Wangari Maathai | People | [link]({{ '/news/people/wangari-maathai/' | relative_url }}) |
+| Sep 29, 2011 | Launch of Tiangong-1, China's first space laboratory module | Science & Technology | [link]({{ '/news/science-technology/tiangong-1-launch/' | relative_url }}) |
 | Oct 3–10, 2011 | 2011 Nobel Prizes announced | Science & Technology | [link]({{ '/news/science-technology/nobel-prizes-2011/' | relative_url }}) |
 | Oct 5, 2011 | Steve Jobs death | People | [link]({{ '/news/people/steve-jobs/' | relative_url }}) |
 | Oct 12, 2011 | Death of Dennis Ritchie (creator of C and Unix) | People | [link]({{ '/news/people/dennis-ritchie/' | relative_url }}) |
