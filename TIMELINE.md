@@ -27,6 +27,8 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Jan 25 – Feb 11, 2011 | Egyptian Revolution (Mubarak resigns) | History & Politics | [link]({{ '/news/history-politics/egyptian-revolution-2011/' | relative_url }}) |
 | Jan 27 – Nov 23, 2011 | Yemeni Revolution (Saleh signs GCC transition deal) | History & Politics | [link]({{ '/news/history-politics/yemeni-revolution-2011/' | relative_url }}) |
 | Jan 30, 2011 | The Social Network score wins the Grammy; Reznor & Ross go on to take the Oscar | Arts & Culture | [link]({{ '/news/arts-culture/social-network-score/' | relative_url }}) |
+| Jan 30, 2011 | 2011 Australian Open final (Djokovic and Clijsters win; Li Na runner-up) | Society & Economics | [link]({{ '/news/society-economics/australian-open-tennis/' | relative_url }}) |
+| Feb 6, 2011 | Super Bowl XLV (Green Bay Packers beat Pittsburgh Steelers 31–25) | Society & Economics | [link]({{ '/news/society-economics/super-bowl-xlv/' | relative_url }}) |
 | Feb 14–16, 2011 | IBM Watson wins Jeopardy! exhibition match | Science & Technology | [link]({{ '/news/science-technology/watson-jeopardy-2011/' | relative_url }}) |
 | Feb 15 – Oct 23, 2011 | Libyan Civil War & NATO intervention | History & Politics | [link]({{ '/news/history-politics/libyan-civil-war-2011/' | relative_url }}) |
 | Feb 19 – Apr 2, 2011 | Cricket World Cup 2011 | Society & Economics | [link]({{ '/news/society-economics/cricket-world-cup-2011/' | relative_url }}) |
@@ -73,6 +75,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Oct 31, 2011 | World population reaches seven billion | Society & Economics | [link]({{ '/news/society-economics/world-population-seven-billion/' | relative_url }}) |
 | Nov 7, 2011 | Death of Joe Frazier (former undisputed heavyweight champion) | People | [link]({{ '/news/people/joe-frazier/' | relative_url }}) |
 | Nov 8, 2011 | Phobos-Grunt Mars sample-return mission launches (later lost) | Science & Technology | [link]({{ '/news/science-technology/phobos-grunt-mission/' | relative_url }}) |
+| Nov 9, 2011 | Penn State football scandal (Joe Paterno fired after Sandusky arrest) | Society & Economics | [link]({{ '/news/society-economics/penn-state-football-scandal/' | relative_url }}) |
 | Nov 11, 2011 | The Elder Scrolls V: Skyrim released | Arts & Culture | [link]({{ '/news/arts-culture/skyrim-2011/' | relative_url }}) |
 | Nov 23, 2011 | The Muppets revives Jim Henson's franchise (later wins Best Original Song) | Arts & Culture | [link]({{ '/news/arts-culture/muppets-2011/' | relative_url }}) |
 | Nov 26, 2011 | NASA launches Curiosity rover | Science & Technology | [link]({{ '/news/science-technology/nasa-curiosity-rover/' | relative_url }}) |
