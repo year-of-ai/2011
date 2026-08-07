@@ -43,9 +43,11 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Mar 24, 2011 | The Book of Mormon opens on Broadway (wins nine Tony Awards) | Arts & Culture | [link]({{ '/news/arts-culture/book-of-mormon-musical/' | relative_url }}) |
 | Apr 17, 2011 | Game of Thrones series premiere on HBO | Arts & Culture | [link]({{ '/news/arts-culture/game-of-thrones-premiere-2011/' | relative_url }}) |
 | Apr 18, 2011 | 2011 Pulitzer Prizes announced | Arts & Culture | [link]({{ '/news/arts-culture/pulitzer-prizes-2011/' | relative_url }}) |
+| Apr 18, 2011 | A Visit from the Goon Squad wins the Pulitzer Prize for Fiction | Arts & Culture | [link]({{ '/news/arts-culture/a-visit-from-the-goon-squad/' | relative_url }}) |
 | Apr 29, 2011 | Royal Wedding of Prince William and Catherine Middleton | History & Politics | [link]({{ '/news/history-politics/royal-wedding-2011/' | relative_url }}) |
 | May 2, 2011 | Death of Osama bin Laden | History & Politics | [link]({{ '/news/history-politics/osama-bin-laden-death/' | relative_url }}) |
 | May 10, 2011 | Microsoft announces $8.5 billion acquisition of Skype | Society & Economics | [link]({{ '/news/society-economics/skype-microsoft-acquisition-2011/' | relative_url }}) |
+| May 23, 2011 | Square launches Register (iPad point-of-sale) and Card Case | Society & Economics | [link]({{ '/news/society-economics/square-mobile-payments/' | relative_url }}) |
 | May 28, 2011 | 2011 UEFA Champions League Final (Barcelona beats Manchester United 3–1) | Society & Economics | [link]({{ '/news/society-economics/uefa-champions-league-final-2011/' | relative_url }}) |
 | Jun 12, 2011 | 2011 NBA Finals (Dallas Mavericks beat Miami Heat 4–2) | Society & Economics | [link]({{ '/news/society-economics/nba-finals-2011-mavericks/' | relative_url }}) |
 | Jun 18, 2011 | Death of Clarence Clemons (E Street Band saxophonist) | People | [link]({{ '/news/people/clarence-clemons-death/' | relative_url }}) |
@@ -70,6 +72,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Sep 29, 2011 | Launch of Tiangong-1, China's first space laboratory module | Science & Technology | [link]({{ '/news/science-technology/tiangong-1-launch/' | relative_url }}) |
 | Oct 3–10, 2011 | 2011 Nobel Prizes announced | Science & Technology | [link]({{ '/news/science-technology/nobel-prizes-2011/' | relative_url }}) |
 | Oct 5, 2011 | Steve Jobs death | People | [link]({{ '/news/people/steve-jobs/' | relative_url }}) |
+| Oct 6, 2010 – 2011 | Instagram launches on iOS (2010) and passes ten million users through 2011 | Science & Technology | [link]({{ '/news/science-technology/instagram-founding/' | relative_url }}) |
 | Oct 12, 2011 | Death of Dennis Ritchie (creator of C and Unix) | People | [link]({{ '/news/people/dennis-ritchie/' | relative_url }}) |
 | Oct 14, 2011 | iPhone 4S & Siri introduced | Science & Technology | [link]({{ '/news/science-technology/iphone-4s-siri/' | relative_url }}) |
 | Oct 31, 2011 | World population reaches seven billion | Society & Economics | [link]({{ '/news/society-economics/world-population-seven-billion/' | relative_url }}) |
