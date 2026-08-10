@@ -24,6 +24,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Jan 4, 2011 | Death of Mohamed Bouazizi (spark of the Tunisian Revolution and Arab Spring) | People | [link]({{ '/news/people/mohamed-bouazizi/' | relative_url }}) |
 | Jan 8, 2011 | 2011 Tucson shooting (Rep. Gabrielle Giffords gravely wounded) | History & Politics | [link]({{ '/news/history-politics/2011-tucson-shooting/' | relative_url }}) |
 | Jan 18, 2011 | Death of R. Sargent Shriver (founding Peace Corps director) | People | [link]({{ '/news/people/sargent-shriver/' | relative_url }}) |
+| Jan 24, 2011 | Adele releases 21 (the best-selling album worldwide of 2011 and 2012) | Arts & Culture | [link]({{ '/news/arts-culture/adele-21-album/' | relative_url }}) |
 | Jan 25 – Feb 11, 2011 | Egyptian Revolution (Mubarak resigns) | History & Politics | [link]({{ '/news/history-politics/egyptian-revolution-2011/' | relative_url }}) |
 | Jan 27 – Nov 23, 2011 | Yemeni Revolution (Saleh signs GCC transition deal) | History & Politics | [link]({{ '/news/history-politics/yemeni-revolution-2011/' | relative_url }}) |
 | Jan 30, 2011 | The Social Network score wins the Grammy; Reznor & Ross go on to take the Oscar | Arts & Culture | [link]({{ '/news/arts-culture/social-network-score/' | relative_url }}) |
@@ -75,6 +76,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Oct 6, 2010 – 2011 | Instagram launches on iOS (2010) and passes ten million users through 2011 | Science & Technology | [link]({{ '/news/science-technology/instagram-founding/' | relative_url }}) |
 | Oct 12, 2011 | Death of Dennis Ritchie (creator of C and Unix) | People | [link]({{ '/news/people/dennis-ritchie/' | relative_url }}) |
 | Oct 14, 2011 | iPhone 4S & Siri introduced | Science & Technology | [link]({{ '/news/science-technology/iphone-4s-siri/' | relative_url }}) |
+| Oct 20, 2011 | Death of Muammar Gaddafi (captured and killed in Sirte, ending the Libyan Civil War) | History & Politics | [link]({{ '/news/history-politics/death-of-muammar-gaddafi/' | relative_url }}) |
 | Oct 31, 2011 | World population reaches seven billion | Society & Economics | [link]({{ '/news/society-economics/world-population-seven-billion/' | relative_url }}) |
 | Nov 7, 2011 | Death of Joe Frazier (former undisputed heavyweight champion) | People | [link]({{ '/news/people/joe-frazier/' | relative_url }}) |
 | Nov 8, 2011 | Phobos-Grunt Mars sample-return mission launches (later lost) | Science & Technology | [link]({{ '/news/science-technology/phobos-grunt-mission/' | relative_url }}) |
@@ -82,6 +84,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Nov 11, 2011 | The Elder Scrolls V: Skyrim released | Arts & Culture | [link]({{ '/news/arts-culture/skyrim-2011/' | relative_url }}) |
 | Nov 23, 2011 | The Muppets revives Jim Henson's franchise (later wins Best Original Song) | Arts & Culture | [link]({{ '/news/arts-culture/muppets-2011/' | relative_url }}) |
 | Nov 26, 2011 | NASA launches Curiosity rover | Science & Technology | [link]({{ '/news/science-technology/nasa-curiosity-rover/' | relative_url }}) |
+| Dec 5, 2011 | NASA confirms Kepler-22b, the first planet in the habitable zone of a Sun-like star | Science & Technology | [link]({{ '/news/science-technology/kepler-22b-first-habitable-zone-planet/' | relative_url }}) |
 | Dec 15, 2011 | Death of Christopher Hitchens | People | [link]({{ '/news/people/christopher-hitchens/' | relative_url }}) |
 | Dec 17, 2011 | Death of Kim Jong Il | History & Politics | [link]({{ '/news/history-politics/kim-jong-il-death/' | relative_url }}) |
 | Dec 18, 2011 | Death of Václav Havel | History & Politics | [link]({{ '/news/history-politics/vaclav-havel-death/' | relative_url }}) |
