@@ -42,11 +42,13 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Mar 18, 2011 | MESSENGER becomes first spacecraft to orbit Mercury | Science & Technology | [link]({{ '/news/science-technology/messenger-mercury-orbit/' | relative_url }}) |
 | Mar 23, 2011 | Death of Elizabeth Taylor | People | [link]({{ '/news/people/elizabeth-taylor/' | relative_url }}) |
 | Mar 24, 2011 | The Book of Mormon opens on Broadway (wins nine Tony Awards) | Arts & Culture | [link]({{ '/news/arts-culture/book-of-mormon-musical/' | relative_url }}) |
+| Mar 26, 2011 | Death of Geraldine Ferraro (first woman on a major U.S. presidential ticket) | People | [link]({{ '/news/people/geraldine-ferraro/' | relative_url }}) |
 | Apr 17, 2011 | Game of Thrones series premiere on HBO | Arts & Culture | [link]({{ '/news/arts-culture/game-of-thrones-premiere-2011/' | relative_url }}) |
 | Apr 18, 2011 | 2011 Pulitzer Prizes announced | Arts & Culture | [link]({{ '/news/arts-culture/pulitzer-prizes-2011/' | relative_url }}) |
 | Apr 18, 2011 | A Visit from the Goon Squad wins the Pulitzer Prize for Fiction | Arts & Culture | [link]({{ '/news/arts-culture/a-visit-from-the-goon-squad/' | relative_url }}) |
 | Apr 29, 2011 | Royal Wedding of Prince William and Catherine Middleton | History & Politics | [link]({{ '/news/history-politics/royal-wedding-2011/' | relative_url }}) |
 | May 2, 2011 | Death of Osama bin Laden | History & Politics | [link]({{ '/news/history-politics/osama-bin-laden-death/' | relative_url }}) |
+| May 2, 2011 | Osama bin Laden (biography, 1957–2011) | People | [link]({{ '/news/people/osama-bin-laden-biography/' | relative_url }}) |
 | May 10, 2011 | Microsoft announces $8.5 billion acquisition of Skype | Society & Economics | [link]({{ '/news/society-economics/skype-microsoft-acquisition-2011/' | relative_url }}) |
 | May 23, 2011 | Square launches Register (iPad point-of-sale) and Card Case | Society & Economics | [link]({{ '/news/society-economics/square-mobile-payments/' | relative_url }}) |
 | May 28, 2011 | 2011 UEFA Champions League Final (Barcelona beats Manchester United 3–1) | Society & Economics | [link]({{ '/news/society-economics/uefa-champions-league-final-2011/' | relative_url }}) |
@@ -90,7 +92,9 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Dec 5, 2011 | NASA confirms Kepler-22b, the first planet in the habitable zone of a Sun-like star | Science & Technology | [link]({{ '/news/science-technology/kepler-22b-first-habitable-zone-planet/' | relative_url }}) |
 | Dec 15, 2011 | Death of Christopher Hitchens | People | [link]({{ '/news/people/christopher-hitchens/' | relative_url }}) |
 | Dec 17, 2011 | Death of Kim Jong Il | History & Politics | [link]({{ '/news/history-politics/kim-jong-il-death/' | relative_url }}) |
+| Dec 17, 2011 | Kim Jong Il (biography, 1941–2011) | People | [link]({{ '/news/people/kim-jong-il-biography/' | relative_url }}) |
 | Dec 18, 2011 | Death of Václav Havel | History & Politics | [link]({{ '/news/history-politics/vaclav-havel-death/' | relative_url }}) |
+| Dec 18, 2011 | Václav Havel (biography, 1936–2011) | People | [link]({{ '/news/people/vaclav-havel-biography/' | relative_url }}) |
 | Dec 18, 2011 | End of the Iraq War — last U.S. troops withdraw | History & Politics | [link]({{ '/news/history-politics/iraq-war-end-2011/' | relative_url }}) |
 | Jan 18, 2012 | Wikipedia SOPA/PIPA blackout (protest of 2011-introduced bills) | Science & Technology | [link]({{ '/news/science-technology/wikipedia-sopa-blackout-2011/' | relative_url }}) |
 | Jan 19, 2012 | Eastman Kodak files for Chapter 11 bankruptcy | Society & Economics | [link]({{ '/news/society-economics/kodak-bankruptcy-2011/' | relative_url }}) |
