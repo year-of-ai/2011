@@ -7,7 +7,7 @@ tags:
 - united states
 - politics
 excerpt: "Geraldine Ferraro, the first woman nominated for vice president by a major U.S. political party, died March 26, 2011, in Boston at age 75 from complications of multiple myeloma."
-preview: /images/previews/geraldine-ferraro.svg
+preview: /images/previews/people.svg
 permalink: "/news/people/geraldine-ferraro/"
 ---
 
