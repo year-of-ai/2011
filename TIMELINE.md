@@ -30,6 +30,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Jan 30, 2011 | The Social Network score wins the Grammy; Reznor & Ross go on to take the Oscar | Arts & Culture | [link]({{ '/news/arts-culture/social-network-score/' | relative_url }}) |
 | Jan 30, 2011 | 2011 Australian Open final (Djokovic and Clijsters win; Li Na runner-up) | Society & Economics | [link]({{ '/news/society-economics/australian-open-tennis/' | relative_url }}) |
 | Feb 6, 2011 | Super Bowl XLV (Green Bay Packers beat Pittsburgh Steelers 31–25) | Society & Economics | [link]({{ '/news/society-economics/super-bowl-xlv/' | relative_url }}) |
+| Feb 13, 2011 | 53rd Grammy Awards (Arcade Fire's The Suburbs wins Album of the Year) | Arts & Culture | [link]({{ '/news/arts-culture/grammy-awards-2011/' | relative_url }}) |
 | Feb 14–16, 2011 | IBM Watson wins Jeopardy! exhibition match | Science & Technology | [link]({{ '/news/science-technology/watson-jeopardy-2011/' | relative_url }}) |
 | Feb 15 – Oct 23, 2011 | Libyan Civil War & NATO intervention | History & Politics | [link]({{ '/news/history-politics/libyan-civil-war-2011/' | relative_url }}) |
 | Feb 19 – Apr 2, 2011 | Cricket World Cup 2011 | Society & Economics | [link]({{ '/news/society-economics/cricket-world-cup-2011/' | relative_url }}) |
@@ -50,6 +51,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | May 2, 2011 | Death of Osama bin Laden | History & Politics | [link]({{ '/news/history-politics/osama-bin-laden-death/' | relative_url }}) |
 | May 2, 2011 | Osama bin Laden (biography, 1957–2011) | People | [link]({{ '/news/people/osama-bin-laden-biography/' | relative_url }}) |
 | May 10, 2011 | Microsoft announces $8.5 billion acquisition of Skype | Society & Economics | [link]({{ '/news/society-economics/skype-microsoft-acquisition-2011/' | relative_url }}) |
+| May 22 – Jun 5, 2011 | 2011 French Open (Nadal wins a sixth title; Li Na becomes the first Asian Grand Slam singles champion) | Society & Economics | [link]({{ '/news/society-economics/french-open-2011/' | relative_url }}) |
 | May 23, 2011 | Square launches Register (iPad point-of-sale) and Card Case | Society & Economics | [link]({{ '/news/society-economics/square-mobile-payments/' | relative_url }}) |
 | May 28, 2011 | 2011 UEFA Champions League Final (Barcelona beats Manchester United 3–1) | Society & Economics | [link]({{ '/news/society-economics/uefa-champions-league-final-2011/' | relative_url }}) |
 | Jun 12, 2011 | 2011 NBA Finals (Dallas Mavericks beat Miami Heat 4–2) | Society & Economics | [link]({{ '/news/society-economics/nba-finals-2011-mavericks/' | relative_url }}) |
@@ -69,6 +71,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Aug 5, 2011 | S&P downgrades U.S. credit rating to AA+ | Society & Economics | [link]({{ '/news/society-economics/us-credit-rating-downgrade-2011/' | relative_url }}) |
 | Aug 5, 2011 | Launch of NASA's Juno spacecraft to Jupiter | Science & Technology | [link]({{ '/news/science-technology/juno-spacecraft-launch/' | relative_url }}) |
 | Aug 6–11, 2011 | 2011 England riots | Society & Economics | [link]({{ '/news/society-economics/2011-england-riots/' | relative_url }}) |
+| Aug 10, 2011 | The Help released (Octavia Spencer later wins the Best Supporting Actress Oscar) | Arts & Culture | [link]({{ '/news/arts-culture/the-help-film/' | relative_url }}) |
 | Aug 17, 2011 | 2011 Hugo Awards (Renovation Worldcon, Reno) | Arts & Culture | [link]({{ '/news/arts-culture/hugo-awards-2011/' | relative_url }}) |
 | Sep 9 – Oct 23, 2011 | 2011 Rugby World Cup (New Zealand wins) | Society & Economics | [link]({{ '/news/society-economics/rugby-world-cup-2011/' | relative_url }}) |
 | Sep 17, 2011 | Occupy Wall Street begins | Society & Economics | [link]({{ '/news/society-economics/occupy-wall-street/' | relative_url }}) |
