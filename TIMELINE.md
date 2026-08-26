@@ -51,13 +51,16 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | May 2, 2011 | Death of Osama bin Laden | History & Politics | [link]({{ '/news/history-politics/osama-bin-laden-death/' | relative_url }}) |
 | May 2, 2011 | Osama bin Laden (biography, 1957–2011) | People | [link]({{ '/news/people/osama-bin-laden-biography/' | relative_url }}) |
 | May 10, 2011 | Microsoft announces $8.5 billion acquisition of Skype | Society & Economics | [link]({{ '/news/society-economics/skype-microsoft-acquisition-2011/' | relative_url }}) |
+| May 19, 2011 | LinkedIn IPO (shares surge 109% on debut) | Society & Economics | [link]({{ '/news/society-economics/linkedin-ipo/' | relative_url }}) |
 | May 22 – Jun 5, 2011 | 2011 French Open (Nadal wins a sixth title; Li Na becomes the first Asian Grand Slam singles champion) | Society & Economics | [link]({{ '/news/society-economics/french-open-2011/' | relative_url }}) |
 | May 23, 2011 | Square launches Register (iPad point-of-sale) and Card Case | Society & Economics | [link]({{ '/news/society-economics/square-mobile-payments/' | relative_url }}) |
 | May 28, 2011 | 2011 UEFA Champions League Final (Barcelona beats Manchester United 3–1) | Society & Economics | [link]({{ '/news/society-economics/uefa-champions-league-final-2011/' | relative_url }}) |
 | Jun 12, 2011 | 2011 NBA Finals (Dallas Mavericks beat Miami Heat 4–2) | Society & Economics | [link]({{ '/news/society-economics/nba-finals-2011-mavericks/' | relative_url }}) |
 | Jun 18, 2011 | Death of Clarence Clemons (E Street Band saxophonist) | People | [link]({{ '/news/people/clarence-clemons-death/' | relative_url }}) |
+| Jun 19, 2011 | 2011 U.S. Open golf (Rory McIlroy wins his first major by eight shots) | Society & Economics | [link]({{ '/news/society-economics/us-open-golf-2011/' | relative_url }}) |
 | Jun 20 – Jul 3, 2011 | 2011 Wimbledon Championships (Djokovic and Kvitová win maiden titles) | Society & Economics | [link]({{ '/news/society-economics/wimbledon-2011/' | relative_url }}) |
 | Jun 28, 2011 | Google+ social network launches | Science & Technology | [link]({{ '/news/science-technology/google-plus-launch-2011/' | relative_url }}) |
+| Jul 2–24, 2011 | 2011 Tour de France (Cadel Evans becomes the first Australian champion) | Society & Economics | [link]({{ '/news/society-economics/tour-de-france-2011/' | relative_url }}) |
 | Jul 4–10, 2011 | News of the World phone-hacking crisis (Milly Dowler report to newspaper's closure) | History & Politics | [link]({{ '/news/history-politics/news-of-the-world-scandal-2011/' | relative_url }}) |
 | Jul 5, 2011 | Casey Anthony acquitted of murder in Caylee Anthony's death | History & Politics | [link]({{ '/news/history-politics/casey-anthony-trial/' | relative_url }}) |
 | Jul 9, 2011 | South Sudan independence | History & Politics | [link]({{ '/news/history-politics/south-sudan-independence/' | relative_url }}) |
