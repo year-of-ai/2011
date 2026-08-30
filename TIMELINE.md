@@ -20,6 +20,9 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | 2011 (year-long) | Television in 2011 | Arts & Culture | [link]({{ '/news/arts-culture/television-2011/' | relative_url }}) |
 | 2011 (year-long) | Business and Entrepreneurship in 2011 | Society & Economics | [link]({{ '/news/society-economics/business-entrepreneurship-2011/' | relative_url }}) |
 | 2011 (year-long) | Literary and Intellectual Figures of 2011 | People | [link]({{ '/news/people/literary-intellectuals-2011/' | relative_url }}) |
+| 2011 (year-long) | Notable Deaths of 2011 | People | [link]({{ '/news/people/2011-deaths/' | relative_url }}) |
+| 2011 (year-long) | Scientific Discoveries & Breakthroughs of 2011 | Science & Technology | [link]({{ '/news/science-technology/2011-scientific-discoveries/' | relative_url }}) |
+| 2011 (year-long) | Video Games in 2011 | Society & Economics | [link]({{ '/news/society-economics/2011-video-games/' | relative_url }}) |
 | Dec 17, 2010 – Jan 14, 2011 | Tunisian Revolution (Jasmine Revolution) | History & Politics | [link]({{ '/news/history-politics/tunisian-revolution-2011/' | relative_url }}) |
 | Jan 4, 2011 | Death of Mohamed Bouazizi (spark of the Tunisian Revolution and Arab Spring) | People | [link]({{ '/news/people/mohamed-bouazizi/' | relative_url }}) |
 | Jan 8, 2011 | 2011 Tucson shooting (Rep. Gabrielle Giffords gravely wounded) | History & Politics | [link]({{ '/news/history-politics/2011-tucson-shooting/' | relative_url }}) |
