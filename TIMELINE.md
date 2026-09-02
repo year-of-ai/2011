@@ -59,10 +59,12 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | May 23, 2011 | Square launches Register (iPad point-of-sale) and Card Case | Society & Economics | [link]({{ '/news/society-economics/square-mobile-payments/' | relative_url }}) |
 | May 28, 2011 | 2011 UEFA Champions League Final (Barcelona beats Manchester United 3–1) | Society & Economics | [link]({{ '/news/society-economics/uefa-champions-league-final-2011/' | relative_url }}) |
 | Jun 12, 2011 | 2011 NBA Finals (Dallas Mavericks beat Miami Heat 4–2) | Society & Economics | [link]({{ '/news/society-economics/nba-finals-2011-mavericks/' | relative_url }}) |
+| Jun 15, 2011 | Cloud computing and infrastructure scale up (AWS and Microsoft Azure) | Science & Technology | [link]({{ '/news/science-technology/cloud-computing-infrastructure-2011/' | relative_url }}) |
 | Jun 18, 2011 | Death of Clarence Clemons (E Street Band saxophonist) | People | [link]({{ '/news/people/clarence-clemons-death/' | relative_url }}) |
 | Jun 19, 2011 | 2011 U.S. Open golf (Rory McIlroy wins his first major by eight shots) | Society & Economics | [link]({{ '/news/society-economics/us-open-golf-2011/' | relative_url }}) |
 | Jun 20 – Jul 3, 2011 | 2011 Wimbledon Championships (Djokovic and Kvitová win maiden titles) | Society & Economics | [link]({{ '/news/society-economics/wimbledon-2011/' | relative_url }}) |
 | Jun 28, 2011 | Google+ social network launches | Science & Technology | [link]({{ '/news/science-technology/google-plus-launch-2011/' | relative_url }}) |
+| Jun 30, 2011 | Mark Zuckerberg in 2011 (Facebook Timeline, Open Graph, and IPO run-up) | People | [link]({{ '/news/people/mark-zuckerberg-2011/' | relative_url }}) |
 | Jul 2–24, 2011 | 2011 Tour de France (Cadel Evans becomes the first Australian champion) | Society & Economics | [link]({{ '/news/society-economics/tour-de-france-2011/' | relative_url }}) |
 | Jul 4–10, 2011 | News of the World phone-hacking crisis (Milly Dowler report to newspaper's closure) | History & Politics | [link]({{ '/news/history-politics/news-of-the-world-scandal-2011/' | relative_url }}) |
 | Jul 5, 2011 | Casey Anthony acquitted of murder in Caylee Anthony's death | History & Politics | [link]({{ '/news/history-politics/casey-anthony-trial/' | relative_url }}) |
@@ -91,6 +93,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Oct 14, 2011 | iPhone 4S & Siri introduced | Science & Technology | [link]({{ '/news/science-technology/iphone-4s-siri/' | relative_url }}) |
 | Oct 20, 2011 | Death of Muammar Gaddafi (captured and killed in Sirte, ending the Libyan Civil War) | History & Politics | [link]({{ '/news/history-politics/death-of-muammar-gaddafi/' | relative_url }}) |
 | Oct 31, 2011 | World population reaches seven billion | Society & Economics | [link]({{ '/news/society-economics/world-population-seven-billion/' | relative_url }}) |
+| Nov 4, 2011 | Groupon IPO (raises ~$700M at a $12.7B valuation; emblem of the web 2.0 bubble) | Society & Economics | [link]({{ '/news/society-economics/groupon-ipo-tech-bubble/' | relative_url }}) |
 | Nov 7, 2011 | Death of Joe Frazier (former undisputed heavyweight champion) | People | [link]({{ '/news/people/joe-frazier/' | relative_url }}) |
 | Nov 8, 2011 | Phobos-Grunt Mars sample-return mission launches (later lost) | Science & Technology | [link]({{ '/news/science-technology/phobos-grunt-mission/' | relative_url }}) |
 | Nov 9, 2011 | Penn State football scandal (Joe Paterno fired after Sandusky arrest) | Society & Economics | [link]({{ '/news/society-economics/penn-state-football-scandal/' | relative_url }}) |
