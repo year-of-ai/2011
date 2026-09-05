@@ -62,6 +62,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Jun 15, 2011 | Cloud computing and infrastructure scale up (AWS and Microsoft Azure) | Science & Technology | [link]({{ '/news/science-technology/cloud-computing-infrastructure-2011/' | relative_url }}) |
 | Jun 18, 2011 | Death of Clarence Clemons (E Street Band saxophonist) | People | [link]({{ '/news/people/clarence-clemons-death/' | relative_url }}) |
 | Jun 19, 2011 | 2011 U.S. Open golf (Rory McIlroy wins his first major by eight shots) | Society & Economics | [link]({{ '/news/society-economics/us-open-golf-2011/' | relative_url }}) |
+| Jun 19, 2011 | Bitcoin's 2011 price surge and Mt. Gox hack | Science & Technology | [link]({{ '/news/science-technology/bitcoin-2011-adoption-surge/' | relative_url }}) |
 | Jun 20 – Jul 3, 2011 | 2011 Wimbledon Championships (Djokovic and Kvitová win maiden titles) | Society & Economics | [link]({{ '/news/society-economics/wimbledon-2011/' | relative_url }}) |
 | Jun 28, 2011 | Google+ social network launches | Science & Technology | [link]({{ '/news/science-technology/google-plus-launch-2011/' | relative_url }}) |
 | Jun 30, 2011 | Mark Zuckerberg in 2011 (Facebook Timeline, Open Graph, and IPO run-up) | People | [link]({{ '/news/people/mark-zuckerberg-2011/' | relative_url }}) |
@@ -82,6 +83,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Aug 10, 2011 | The Help released (Octavia Spencer later wins the Best Supporting Actress Oscar) | Arts & Culture | [link]({{ '/news/arts-culture/the-help-film/' | relative_url }}) |
 | Aug 17, 2011 | 2011 Hugo Awards (Renovation Worldcon, Reno) | Arts & Culture | [link]({{ '/news/arts-culture/hugo-awards-2011/' | relative_url }}) |
 | Sep 9 – Oct 23, 2011 | 2011 Rugby World Cup (New Zealand wins) | Society & Economics | [link]({{ '/news/society-economics/rugby-world-cup-2011/' | relative_url }}) |
+| Sep 12, 2011 | Snapchat founded (Evan Spiegel and Bobby Murphy launch the ephemeral photo-messaging app) | Science & Technology | [link]({{ '/news/science-technology/snapchat-founding/' | relative_url }}) |
 | Sep 17, 2011 | Occupy Wall Street begins | Society & Economics | [link]({{ '/news/society-economics/occupy-wall-street/' | relative_url }}) |
 | Sep 23, 2011 | OPERA reports apparent faster-than-light neutrinos | Science & Technology | [link]({{ '/news/science-technology/faster-than-light-neutrino-anomaly-2011/' | relative_url }}) |
 | Sep 26, 2011 | Death of Wangari Maathai | People | [link]({{ '/news/people/wangari-maathai/' | relative_url }}) |
