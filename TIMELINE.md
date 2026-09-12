@@ -74,6 +74,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Jul 9, 2011 | South Sudan independence | History & Politics | [link]({{ '/news/history-politics/south-sudan-independence/' | relative_url }}) |
 | Jul 15, 2011 | Harry Potter and the Deathly Hallows – Part 2 released (2011's highest-grossing film) | Arts & Culture | [link]({{ '/news/arts-culture/harry-potter-deathly-hallows-part-2/' | relative_url }}) |
 | Jul 17, 2011 | Japan wins the FIFA Women's World Cup, the first Asian side to take a senior World Cup | Society & Economics | [link]({{ '/news/society-economics/fifa-womens-world-cup-2011/' | relative_url }}) |
+| Jul 19, 2011 | Rupert and James Murdoch testify to Parliament; Leveson Inquiry and press-regulation overhaul follow | History & Politics | [link]({{ '/news/history-politics/rupert-murdoch-testimony-media-regulation/' | relative_url }}) |
 | Jul 20, 2011 | UN declares famine in southern Somalia (2011 East Africa drought) | Society & Economics | [link]({{ '/news/society-economics/east-africa-drought-2011/' | relative_url }}) |
 | Jul 21, 2011 | Space Shuttle program ends (STS-135) | Science & Technology | [link]({{ '/news/science-technology/space-shuttle-final-mission/' | relative_url }}) |
 | Jul 22, 2011 | 2011 Norway attacks (Oslo bombing and Utøya massacre) | History & Politics | [link]({{ '/news/history-politics/norway-attacks-2011/' | relative_url }}) |
@@ -83,6 +84,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Aug 5, 2011 | Launch of NASA's Juno spacecraft to Jupiter | Science & Technology | [link]({{ '/news/science-technology/juno-spacecraft-launch/' | relative_url }}) |
 | Aug 6–11, 2011 | 2011 England riots | Society & Economics | [link]({{ '/news/society-economics/2011-england-riots/' | relative_url }}) |
 | Aug 10, 2011 | The Help released (Octavia Spencer later wins the Best Supporting Actress Oscar) | Arts & Culture | [link]({{ '/news/arts-culture/the-help-film/' | relative_url }}) |
+| Aug 13, 2011 | 2012 U.S. presidential campaign early phase (Rick Perry enters; Bachmann wins the Ames Straw Poll) | History & Politics | [link]({{ '/news/history-politics/2012-us-presidential-campaign-early-phase/' | relative_url }}) |
 | Aug 17, 2011 | 2011 Hugo Awards (Renovation Worldcon, Reno) | Arts & Culture | [link]({{ '/news/arts-culture/hugo-awards-2011/' | relative_url }}) |
 | Sep 9 – Oct 23, 2011 | 2011 Rugby World Cup (New Zealand wins) | Society & Economics | [link]({{ '/news/society-economics/rugby-world-cup-2011/' | relative_url }}) |
 | Sep 12, 2011 | Snapchat founded (Evan Spiegel and Bobby Murphy launch the ephemeral photo-messaging app) | Science & Technology | [link]({{ '/news/science-technology/snapchat-founding/' | relative_url }}) |
@@ -105,6 +107,7 @@ A chronological index of notable events of 2011 drawn from the [knowledge table]
 | Nov 18, 2011 | Minecraft 1.0 released at MineCon, completing the sandbox game | Science & Technology | [link]({{ '/news/science-technology/minecraft-full-release/' | relative_url }}) |
 | Nov 23, 2011 | The Muppets revives Jim Henson's franchise (later wins Best Original Song) | Arts & Culture | [link]({{ '/news/arts-culture/muppets-2011/' | relative_url }}) |
 | Nov 26, 2011 | NASA launches Curiosity rover | Science & Technology | [link]({{ '/news/science-technology/nasa-curiosity-rover/' | relative_url }}) |
+| Nov 28 – Dec 11, 2011 | UN Climate Change Conference COP17 adopts the Durban Platform for Enhanced Action | Society & Economics | [link]({{ '/news/society-economics/cop17-durban-climate-conference/' | relative_url }}) |
 | Dec 5, 2011 | NASA confirms Kepler-22b, the first planet in the habitable zone of a Sun-like star | Science & Technology | [link]({{ '/news/science-technology/kepler-22b-first-habitable-zone-planet/' | relative_url }}) |
 | Dec 15, 2011 | Death of Christopher Hitchens | People | [link]({{ '/news/people/christopher-hitchens/' | relative_url }}) |
 | Dec 17, 2011 | Death of Kim Jong Il | History & Politics | [link]({{ '/news/history-politics/kim-jong-il-death/' | relative_url }}) |
